@@ -1,8 +1,8 @@
 # 30days Of Learning
 
-[![Deploy to GitHub Pages](https://github.com/fearlessly-dev/30days/actions/workflows/deploy.yml/badge.svg)](https://github.com/fearlessly-dev/30days/actions/workflows/deploy.yml) 
+[![Deploy to GitHub Pages](https://github.com/fearlessly-dev/30days/actions/workflows/deploy.yml/badge.svg)](https://github.com/staticwebdev/30days/actions/workflows/deploy.yml) 
 
-[![pages-build-deployment](https://github.com/fearlessly-dev/30days/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/fearlessly-dev/30days/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/fearlessly-dev/30days/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/staticwebdev/30days/actions/workflows/pages/pages-build-deployment)
 
 
 This is a [Docusaurus-powered](https://docusaurus.io) site to host tutorials and blog posts that can support #30Days learning journeys. Here are the steps used to setup this site and configure it for automated build-deploy workflows.
