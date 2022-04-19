@@ -6,16 +6,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '#30DaysOfLearning',
-  tagline: 'Cultivate Continuous Learning Habits',
-  url: 'https://fearlessly-dev.github.com',
-  baseUrl: '/30days/',
+  title: '#30DaysOfSWA',
+  tagline: 'Bring Your App Ideas to Life with Static Web Apps',
+  url: 'https://staticwebdev.github.io',
+  baseUrl: '/30DaysOfSWA/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   // -- Customized for Deployment Configuration
-  organizationName: 'fearlessly-dev', // Usually your GitHub org/user name.
-  projectName: '30days', // Usually your repo name.
+  organizationName: 'staticwebdev', // Usually your GitHub org/user name.
+  projectName: '30DaysOfSWA', // Usually your repo name.
   trailingSlash: false,
   deploymentBranch: `gh-pages`, // default = gh-pages
 
@@ -27,13 +27,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/fearlessly-dev/30days/tree/main/www',
+          editUrl: 'https://github.com/staticwebdev/30DaysOfSWA/tree/main/www',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/fearlessly-dev/30days/tree/main/www',
+            'https://github.com/staticwebdev/30DaysOfSWA/tree/main/www',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -46,7 +46,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: '#30DaysOf',
+        title: '#30DaysOfSWA',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -61,7 +61,7 @@ const config = {
           },
           {to: '/showcase', label: 'Showcase', position: 'left'},
           {
-            href: 'https://github.com/fearlessly-dev/30days',
+            href: 'https://github.com/staticwebdev/30DaysOfSWA',
             label: 'GitHub',
             position: 'right',
           },

@@ -1,8 +1,8 @@
-# 30days Of Learning
+# 30days Of Static Web Apps
 
 [![Deploy to GitHub Pages](https://github.com/staticwebdev/30DaysOfSWA/actions/workflows/deploy.yml/badge.svg)](https://github.com/staticwebdev/30DaysOfSWA/actions/workflows/deploy.yml) 
 
-[![pages-build-deployment](https://github.com/staticwebdev/30days/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/staticwebdev/30DaysOfSWA/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/staticwebdev/30DaysOfSWA/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/staticwebdev/30DaysOfSWA/actions/workflows/pages/pages-build-deployment)
 
 
 This is a [Docusaurus-powered](https://docusaurus.io) site to host tutorials and blog posts that can support #30Days learning journeys. Here are the steps used to setup this site and configure it for automated build-deploy workflows.
@@ -14,7 +14,8 @@ This is a [Docusaurus-powered](https://docusaurus.io) site to host tutorials and
 
 | Command | Description |
 |:--- |:--- |
-| `npx create-docusaurus@latest www classic` | Scaffold classic docusaurus site in www/ folder |
+| `npx create-docusaurus@latest www classic` | Scaffold **a new** classic docusaurus site in www/ folder |
+| `cd www; npm install` | Work with an **existing** docusaurus site scaffolded in www/ folder |
 | `cd www; npx docusaurus start` | Validate setup with local preview (and hot reload) |
 | `cd www; npm run build` | Build production-ready site (in _build/_ folder by default) |
 | `cd www; npm run serve` | Preview production-ready site on local device |
@@ -43,7 +44,7 @@ This is a [Docusaurus-powered](https://docusaurus.io) site to host tutorials and
 | Action | Description |
 |:--- |:--- |
 | [Modify docusaurus.config.js](https://docusaurus.io/docs/deployment#docusaurusconfigjs-settings)  | Add `organizationName`=user, `projectName`=repo, `deploymentBranch`=gh-pages properties. <br/>Updated `url` property to relevant github.io version for now |
-| [Configure publishing source for GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)| Do an initial manual deploy using `GIT_USER=<GITHUB_USERNAME> GIT_PASS=<GITHUB_PERSONAL_ACCESS_TOKEN> npm run deploy` to setup the GitHub Pages branch. Generate [Personal Tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) if needed. Validate deploy by visiting [https://fearlessly-dev.github.io/30days/](https://fearlessly-dev.github.io/30days/) - then automate deploy using GitHub Actions.|
+| [Configure publishing source for GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)| Do an initial manual deploy using `GIT_USER=<GITHUB_USERNAME> GIT_PASS=<GITHUB_PERSONAL_ACCESS_TOKEN> npm run deploy` to setup the GitHub Pages branch. Generate [Personal Tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) if needed. Validate deploy by visiting [https://staticwebdev.github.io/30DaysOfSWA/](https://staticwebdev.github.io/30DaysOfSWA) - then automate deploy using GitHub Actions.|
 | | |
 | | |
 
