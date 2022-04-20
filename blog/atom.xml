@@ -2,69 +2,162 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://staticwebdev.github.io/30DaysOfSWA/blog</id>
     <title>#30DaysOfSWA Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2021-05-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://staticwebdev.github.io/30DaysOfSWA/blog"/>
     <subtitle>#30DaysOfSWA Blog</subtitle>
     <icon>https://staticwebdev.github.io/30DaysOfSWA/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
-        <id>welcome</id>
-        <link href="https://staticwebdev.github.io/30DaysOfSWA/blog/welcome"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p><p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p><p>Regular blog authors can be added to <code>authors.yml</code>.</p><p>The blog post date can be extracted from filenames, such as:</p><ul><li><code>2019-05-30-welcome.md</code></li><li><code>2019-05-30-welcome/index.md</code></li></ul><p>A blog post folder can be convenient to co-locate blog post images:</p><p><img loading="lazy" alt="Docusaurus Plushie" src="/30DaysOfSWA/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_E7b_"></p><p>The blog supports tags as well!</p><p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content>
+        <title type="html"><![CDATA[#10: Usage-Examples-XX]]></title>
+        <id>usage-examples-2</id>
+        <link href="https://staticwebdev.github.io/30DaysOfSWA/blog/usage-examples-2"/>
+        <updated>2021-05-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What We'll Cover Today]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="what-well-cover-today">What We'll Cover Today<a class="hash-link" href="#what-well-cover-today" title="Direct link to heading">​</a></h2><ul><li>Topic 1</li><li>Topic 2</li><li>Topic 3</li><li>Summary</li><li>Exercise </li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="related-resources">Related Resources<a class="hash-link" href="#related-resources" title="Direct link to heading">​</a></h2><ul><li>SWA Docs Link</li><li>SWA Collection Link</li><li>Topic Specific Links</li></ul><p><img loading="lazy" src="/30DaysOfSWA/assets/images/banner-afe650ef22efd67418fec0070ba6db9e.png" width="1000" height="420" class="img_E7b_"></p><blockquote><p>This is an abbreviated or adapted version of content previously published at <em>this link</em>. Check out the original post for more details or deep-dives into the topic. </p></blockquote><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-1">Topic 1<a class="hash-link" href="#topic-1" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-2">Topic 2<a class="hash-link" href="#topic-2" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-3">Topic 3<a class="hash-link" href="#topic-3" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="summary">Summary<a class="hash-link" href="#summary" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="exercise">Exercise<a class="hash-link" href="#exercise" title="Direct link to heading">​</a></h2>]]></content>
         <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
+            <name>Nitya Narasimhan</name>
+            <uri>https://twitter.com/nitya</uri>
         </author>
-        <author>
-            <name>Yangshun Tay</name>
-            <uri>https://github.com/yangshun</uri>
-        </author>
-        <category label="facebook" term="facebook"/>
-        <category label="hello" term="hello"/>
-        <category label="docusaurus" term="docusaurus"/>
+        <category label="swa" term="swa"/>
+        <category label="30days" term="30days"/>
+        <category label="usage-examples" term="usage-examples"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MDX Blog Post]]></title>
-        <id>mdx-blog-post</id>
-        <link href="https://staticwebdev.github.io/30DaysOfSWA/blog/mdx-blog-post"/>
-        <updated>2021-08-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
-        <content type="html"><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p><div class="admonition admonition-tip alert alert--success"><div class="admonition-heading"><h5><span class="admonition-icon"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="16" viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</h5></div><div class="admonition-content"><p>Use the power of React to create interactive blog posts.</p><div class="codeBlockContainer_I0IT language-js theme-code-block"><div class="codeBlockContent_wNvx" style="color:#393A34;background-color:#f6f8fa"><pre tabindex="0" class="prism-code language-js codeBlock_jd64 thin-scrollbar"><code class="codeBlockLines_mRuA"><span class="token-line" style="color:#393A34"><span class="token operator" style="color:#393A34">&lt;</span><span class="token plain">button onClick</span><span class="token operator" style="color:#393A34">=</span><span class="token punctuation" style="color:#393A34">{</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token arrow operator" style="color:#393A34">=&gt;</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">alert</span><span class="token punctuation" style="color:#393A34">(</span><span class="token string" style="color:#e3116c">'button clicked!'</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">}</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token maybe-class-name">Click</span><span class="token plain"> me</span><span class="token operator" style="color:#393A34">!</span><span class="token operator" style="color:#393A34">&lt;</span><span class="token operator" style="color:#393A34">/</span><span class="token plain">button</span><span class="token operator" style="color:#393A34">&gt;</span><br></span></code></pre><button type="button" aria-label="Copy code to clipboard" title="Copy" class="copyButton_eDfN clean-btn"><span class="copyButtonIcons_W9eQ" aria-hidden="true"><svg class="copyButtonIcon_XEyF" viewBox="0 0 24 24"><path d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg class="copyButtonSuccessIcon_i9w9" viewBox="0 0 24 24"><path d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div><button>Click me!</button></div></div>]]></content>
+        <title type="html"><![CDATA[#09: Usage-Examples-XX]]></title>
+        <id>usage-examples-1</id>
+        <link href="https://staticwebdev.github.io/30DaysOfSWA/blog/usage-examples-1"/>
+        <updated>2021-05-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What We'll Cover Today]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="what-well-cover-today">What We'll Cover Today<a class="hash-link" href="#what-well-cover-today" title="Direct link to heading">​</a></h2><ul><li>Topic 1</li><li>Topic 2</li><li>Topic 3</li><li>Summary</li><li>Exercise </li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="related-resources">Related Resources<a class="hash-link" href="#related-resources" title="Direct link to heading">​</a></h2><ul><li>SWA Docs Link</li><li>SWA Collection Link</li><li>Topic Specific Links</li></ul><p><img loading="lazy" src="/30DaysOfSWA/assets/images/banner-afe650ef22efd67418fec0070ba6db9e.png" width="1000" height="420" class="img_E7b_"></p><blockquote><p>This is an abbreviated or adapted version of content previously published at <em>this link</em>. Check out the original post for more details or deep-dives into the topic. </p></blockquote><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-1">Topic 1<a class="hash-link" href="#topic-1" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-2">Topic 2<a class="hash-link" href="#topic-2" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-3">Topic 3<a class="hash-link" href="#topic-3" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="summary">Summary<a class="hash-link" href="#summary" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="exercise">Exercise<a class="hash-link" href="#exercise" title="Direct link to heading">​</a></h2>]]></content>
         <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
+            <name>Nitya Narasimhan</name>
+            <uri>https://twitter.com/nitya</uri>
         </author>
-        <category label="docusaurus" term="docusaurus"/>
+        <category label="swa" term="swa"/>
+        <category label="30days" term="30days"/>
+        <category label="usage-examples" term="usage-examples"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Long Blog Post]]></title>
-        <id>long-blog-post</id>
-        <link href="https://staticwebdev.github.io/30DaysOfSWA/blog/long-blog-post"/>
-        <updated>2019-05-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
-        <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p><p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+        <title type="html"><![CDATA[#08: Core-Concepts-XX]]></title>
+        <id>core-concepts-7</id>
+        <link href="https://staticwebdev.github.io/30DaysOfSWA/blog/core-concepts-7"/>
+        <updated>2021-05-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What We'll Cover Today]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="what-well-cover-today">What We'll Cover Today<a class="hash-link" href="#what-well-cover-today" title="Direct link to heading">​</a></h2><ul><li>Topic 1</li><li>Topic 2</li><li>Topic 3</li><li>Summary</li><li>Exercise </li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="related-resources">Related Resources<a class="hash-link" href="#related-resources" title="Direct link to heading">​</a></h2><ul><li>SWA Docs Link</li><li>SWA Collection Link</li><li>Topic Specific Links</li></ul><p><img loading="lazy" src="/30DaysOfSWA/assets/images/banner-afe650ef22efd67418fec0070ba6db9e.png" width="1000" height="420" class="img_E7b_"></p><blockquote><p>This is an abbreviated or adapted version of content previously published at <em>this link</em>. Check out the original post for more details or deep-dives into the topic. </p></blockquote><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-1">Topic 1<a class="hash-link" href="#topic-1" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-2">Topic 2<a class="hash-link" href="#topic-2" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-3">Topic 3<a class="hash-link" href="#topic-3" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="summary">Summary<a class="hash-link" href="#summary" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="exercise">Exercise<a class="hash-link" href="#exercise" title="Direct link to heading">​</a></h2>]]></content>
         <author>
-            <name>Endilie Yacop Sucipto</name>
-            <uri>https://github.com/endiliey</uri>
+            <name>Nitya Narasimhan</name>
+            <uri>https://twitter.com/nitya</uri>
         </author>
-        <category label="hello" term="hello"/>
-        <category label="docusaurus" term="docusaurus"/>
+        <category label="swa" term="swa"/>
+        <category label="30days" term="30days"/>
+        <category label="core-concepts" term="core-concepts"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>first-blog-post</id>
-        <link href="https://staticwebdev.github.io/30DaysOfSWA/blog/first-blog-post"/>
-        <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
-        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+        <title type="html"><![CDATA[#07: Core-Concepts-XX]]></title>
+        <id>core-concepts-6</id>
+        <link href="https://staticwebdev.github.io/30DaysOfSWA/blog/core-concepts-6"/>
+        <updated>2021-05-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What We'll Cover Today]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="what-well-cover-today">What We'll Cover Today<a class="hash-link" href="#what-well-cover-today" title="Direct link to heading">​</a></h2><ul><li>Topic 1</li><li>Topic 2</li><li>Topic 3</li><li>Summary</li><li>Exercise </li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="related-resources">Related Resources<a class="hash-link" href="#related-resources" title="Direct link to heading">​</a></h2><ul><li>SWA Docs Link</li><li>SWA Collection Link</li><li>Topic Specific Links</li></ul><p><img loading="lazy" src="/30DaysOfSWA/assets/images/banner-afe650ef22efd67418fec0070ba6db9e.png" width="1000" height="420" class="img_E7b_"></p><blockquote><p>This is an abbreviated or adapted version of content previously published at <em>this link</em>. Check out the original post for more details or deep-dives into the topic. </p></blockquote><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-1">Topic 1<a class="hash-link" href="#topic-1" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-2">Topic 2<a class="hash-link" href="#topic-2" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-3">Topic 3<a class="hash-link" href="#topic-3" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="summary">Summary<a class="hash-link" href="#summary" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="exercise">Exercise<a class="hash-link" href="#exercise" title="Direct link to heading">​</a></h2>]]></content>
         <author>
-            <name>Gao Wei</name>
-            <uri>https://github.com/wgao19</uri>
+            <name>Nitya Narasimhan</name>
+            <uri>https://twitter.com/nitya</uri>
         </author>
-        <category label="hola" term="hola"/>
-        <category label="docusaurus" term="docusaurus"/>
+        <category label="swa" term="swa"/>
+        <category label="30days" term="30days"/>
+        <category label="core-concepts" term="core-concepts"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#06: Core-Concepts-XX]]></title>
+        <id>core-concepts-5</id>
+        <link href="https://staticwebdev.github.io/30DaysOfSWA/blog/core-concepts-5"/>
+        <updated>2021-05-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What We'll Cover Today]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="what-well-cover-today">What We'll Cover Today<a class="hash-link" href="#what-well-cover-today" title="Direct link to heading">​</a></h2><ul><li>Topic 1</li><li>Topic 2</li><li>Topic 3</li><li>Summary</li><li>Exercise </li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="related-resources">Related Resources<a class="hash-link" href="#related-resources" title="Direct link to heading">​</a></h2><ul><li>SWA Docs Link</li><li>SWA Collection Link</li><li>Topic Specific Links</li></ul><p><img loading="lazy" src="/30DaysOfSWA/assets/images/banner-afe650ef22efd67418fec0070ba6db9e.png" width="1000" height="420" class="img_E7b_"></p><blockquote><p>This is an abbreviated or adapted version of content previously published at <em>this link</em>. Check out the original post for more details or deep-dives into the topic. </p></blockquote><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-1">Topic 1<a class="hash-link" href="#topic-1" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-2">Topic 2<a class="hash-link" href="#topic-2" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-3">Topic 3<a class="hash-link" href="#topic-3" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="summary">Summary<a class="hash-link" href="#summary" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="exercise">Exercise<a class="hash-link" href="#exercise" title="Direct link to heading">​</a></h2>]]></content>
+        <author>
+            <name>Nitya Narasimhan</name>
+            <uri>https://twitter.com/nitya</uri>
+        </author>
+        <category label="swa" term="swa"/>
+        <category label="30days" term="30days"/>
+        <category label="core-concepts" term="core-concepts"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#05: Core-Concepts-XX]]></title>
+        <id>core-concepts-4</id>
+        <link href="https://staticwebdev.github.io/30DaysOfSWA/blog/core-concepts-4"/>
+        <updated>2021-05-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What We'll Cover Today]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="what-well-cover-today">What We'll Cover Today<a class="hash-link" href="#what-well-cover-today" title="Direct link to heading">​</a></h2><ul><li>Topic 1</li><li>Topic 2</li><li>Topic 3</li><li>Summary</li><li>Exercise </li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="related-resources">Related Resources<a class="hash-link" href="#related-resources" title="Direct link to heading">​</a></h2><ul><li>SWA Docs Link</li><li>SWA Collection Link</li><li>Topic Specific Links</li></ul><p><img loading="lazy" src="/30DaysOfSWA/assets/images/banner-afe650ef22efd67418fec0070ba6db9e.png" width="1000" height="420" class="img_E7b_"></p><blockquote><p>This is an abbreviated or adapted version of content previously published at <em>this link</em>. Check out the original post for more details or deep-dives into the topic. </p></blockquote><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-1">Topic 1<a class="hash-link" href="#topic-1" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-2">Topic 2<a class="hash-link" href="#topic-2" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-3">Topic 3<a class="hash-link" href="#topic-3" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="summary">Summary<a class="hash-link" href="#summary" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="exercise">Exercise<a class="hash-link" href="#exercise" title="Direct link to heading">​</a></h2>]]></content>
+        <author>
+            <name>Nitya Narasimhan</name>
+            <uri>https://twitter.com/nitya</uri>
+        </author>
+        <category label="swa" term="swa"/>
+        <category label="30days" term="30days"/>
+        <category label="core-concepts" term="core-concepts"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#04: Core-Concepts-XX]]></title>
+        <id>core-concepts-3</id>
+        <link href="https://staticwebdev.github.io/30DaysOfSWA/blog/core-concepts-3"/>
+        <updated>2021-05-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What We'll Cover Today]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="what-well-cover-today">What We'll Cover Today<a class="hash-link" href="#what-well-cover-today" title="Direct link to heading">​</a></h2><ul><li>Topic 1</li><li>Topic 2</li><li>Topic 3</li><li>Summary</li><li>Exercise </li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="related-resources">Related Resources<a class="hash-link" href="#related-resources" title="Direct link to heading">​</a></h2><ul><li>SWA Docs Link</li><li>SWA Collection Link</li><li>Topic Specific Links</li></ul><p><img loading="lazy" src="/30DaysOfSWA/assets/images/banner-afe650ef22efd67418fec0070ba6db9e.png" width="1000" height="420" class="img_E7b_"></p><blockquote><p>This is an abbreviated or adapted version of content previously published at <em>this link</em>. Check out the original post for more details or deep-dives into the topic. </p></blockquote><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-1">Topic 1<a class="hash-link" href="#topic-1" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-2">Topic 2<a class="hash-link" href="#topic-2" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-3">Topic 3<a class="hash-link" href="#topic-3" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="summary">Summary<a class="hash-link" href="#summary" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="exercise">Exercise<a class="hash-link" href="#exercise" title="Direct link to heading">​</a></h2>]]></content>
+        <author>
+            <name>Nitya Narasimhan</name>
+            <uri>https://twitter.com/nitya</uri>
+        </author>
+        <category label="swa" term="swa"/>
+        <category label="30days" term="30days"/>
+        <category label="core-concepts" term="core-concepts"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#03: Core-Concepts-XX]]></title>
+        <id>core-concepts-2</id>
+        <link href="https://staticwebdev.github.io/30DaysOfSWA/blog/core-concepts-2"/>
+        <updated>2021-05-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What We'll Cover Today]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="what-well-cover-today">What We'll Cover Today<a class="hash-link" href="#what-well-cover-today" title="Direct link to heading">​</a></h2><ul><li>Topic 1</li><li>Topic 2</li><li>Topic 3</li><li>Summary</li><li>Exercise </li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="related-resources">Related Resources<a class="hash-link" href="#related-resources" title="Direct link to heading">​</a></h2><ul><li>SWA Docs Link</li><li>SWA Collection Link</li><li>Topic Specific Links</li></ul><p><img loading="lazy" src="/30DaysOfSWA/assets/images/banner-afe650ef22efd67418fec0070ba6db9e.png" width="1000" height="420" class="img_E7b_"></p><blockquote><p>This is an abbreviated or adapted version of content previously published at <em>this link</em>. Check out the original post for more details or deep-dives into the topic. </p></blockquote><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-1">Topic 1<a class="hash-link" href="#topic-1" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-2">Topic 2<a class="hash-link" href="#topic-2" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-3">Topic 3<a class="hash-link" href="#topic-3" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="summary">Summary<a class="hash-link" href="#summary" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="exercise">Exercise<a class="hash-link" href="#exercise" title="Direct link to heading">​</a></h2>]]></content>
+        <author>
+            <name>Nitya Narasimhan</name>
+            <uri>https://twitter.com/nitya</uri>
+        </author>
+        <category label="swa" term="swa"/>
+        <category label="30days" term="30days"/>
+        <category label="core-concepts" term="core-concepts"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#02: Core-Concepts-XX]]></title>
+        <id>core-concepts-1</id>
+        <link href="https://staticwebdev.github.io/30DaysOfSWA/blog/core-concepts-1"/>
+        <updated>2021-05-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What We'll Cover Today]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="what-well-cover-today">What We'll Cover Today<a class="hash-link" href="#what-well-cover-today" title="Direct link to heading">​</a></h2><ul><li>Topic 1</li><li>Topic 2</li><li>Topic 3</li><li>Summary</li><li>Exercise </li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="related-resources">Related Resources<a class="hash-link" href="#related-resources" title="Direct link to heading">​</a></h2><ul><li>SWA Docs Link</li><li>SWA Collection Link</li><li>Topic Specific Links</li></ul><p><img loading="lazy" src="/30DaysOfSWA/assets/images/banner-afe650ef22efd67418fec0070ba6db9e.png" width="1000" height="420" class="img_E7b_"></p><blockquote><p>This is an abbreviated or adapted version of content previously published at <em>this link</em>. Check out the original post for more details or deep-dives into the topic. </p></blockquote><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-1">Topic 1<a class="hash-link" href="#topic-1" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-2">Topic 2<a class="hash-link" href="#topic-2" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="topic-3">Topic 3<a class="hash-link" href="#topic-3" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="summary">Summary<a class="hash-link" href="#summary" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_mojV" id="exercise">Exercise<a class="hash-link" href="#exercise" title="Direct link to heading">​</a></h2>]]></content>
+        <author>
+            <name>Nitya Narasimhan</name>
+            <uri>https://twitter.com/nitya</uri>
+        </author>
+        <category label="swa" term="swa"/>
+        <category label="30days" term="30days"/>
+        <category label="core-concepts" term="core-concepts"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#01: Kickoff Time!]]></title>
+        <id>kickoff</id>
+        <link href="https://staticwebdev.github.io/30DaysOfSWA/blog/kickoff"/>
+        <updated>2021-05-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the first day of #30DaysOfSWA - our new month-long content series where we explore the amazing world of Azure Static Web Apps (SWA) from core concepts to usage examples, developer tools and best practices.]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" src="/30DaysOfSWA/assets/images/banner-afe650ef22efd67418fec0070ba6db9e.png" width="1000" height="420" class="img_E7b_"></p><p>Welcome to the first day of <strong>#30DaysOfSWA</strong> - our new month-long content series where we explore the amazing world of <a href="https://docs.microsoft.com/en-us/azure/static-web-apps/overview" target="_blank" rel="noopener noreferrer">Azure Static Web Apps</a> (SWA) from core concepts to usage examples, developer tools and best practices. </p><h2 class="anchor anchorWithStickyNavbar_mojV" id="about-the-series">About The Series<a class="hash-link" href="#about-the-series" title="Direct link to heading">​</a></h2><p><a href="https://docs.microsoft.com/en-us/azure/static-web-apps/overview" target="_blank" rel="noopener noreferrer">Azure Static Web Apps</a> (SWA) is a service that automatically builds and deploys full-stack web apps to Azure from your code repository. The service <a href="https://azure.microsoft.com/updates/azure-static-web-apps-is-now-generally-available/" target="_blank" rel="noopener noreferrer">became generally available</a> on May 12, 2021. </p><p>We wanted to celebrate it's first anniversary this May with a learning tour of the service features and tooling, and help you bring your app ideas to life! Content is organized into 4 themed weeks based on  <a href="/30DaysOfSWA/roadmap">this roadmap</a> :</p><ul><li><strong>Week 1: Core Concepts</strong> - Learn basic terminology, build &amp; deploy an SWA.</li><li><strong>Week 2: Usage Examples</strong> - Explore  various app scenarios and frameworks.</li><li><strong>Week 3: Developer Tools</strong> - Learn to develop, debug, deploy, and test, your SWA!</li><li><strong>Week 4:Best Practices</strong> - Explore service integrations and development tips.</li></ul><p>Each article should take less than 5 minutes to read, and end with an activity or tutorial that will help reinforce what you learned. Content is designed to be beginner-friendly though we assume you have some familiarity with web development. Feedback is always welcome - share it on our <a href="https://github.com/orgs/staticwebdev/discussions/categories/-30daysofswa" target="_blank" rel="noopener noreferrer">Discussion</a> board under <code>#30DaysOfSWA</code>.</p><hr><h2 class="anchor anchorWithStickyNavbar_mojV" id="about-the-people">About The People<a class="hash-link" href="#about-the-people" title="Direct link to heading">​</a></h2><p>This is a labor of love with contributions from multiple folks across the Microsoft Developer Relations and Static Web Apps product teams. Contributors are listed in alphabetical order (by last name) - check back for updates as the series progresses.</p><ul><li><strong>Nitya Narasimhan</strong>, Senior Cloud Advocate, Microsoft</li><li><strong>Reshmi Sriram</strong>, Static Web Apps PM, Microsoft</li><li></li><li></li></ul><hr><h2 class="anchor anchorWithStickyNavbar_mojV" id="week-1-a-visual-roadmap">Week 1: A Visual Roadmap<a class="hash-link" href="#week-1-a-visual-roadmap" title="Direct link to heading">​</a></h2><p>Week 1 will focus on core concepts you need to know for Azure Static Web Apps. </p><ul><li>We'll start by introducing the big picture, building your first SWA and adding a serverless API endpoint. </li><li>Next, we'll look at configuring application behaviors and build processes - and securing SWA with authentication and authorization support. </li><li>Finally, we'll talk about deployment - from previewing staged versions of SWA to using custom domains and deploying from other code source platforms. </li></ul><p><img loading="lazy" src="/30DaysOfSWA/assets/images/roadmap-e5cc002367df975abef5a6a913918e03.png" width="1000" height="420" class="img_E7b_"></p><p>By the end of the week you should be familiar with SWA terminology and developer workflows - and be ready to explore usage scenarios with various front-end frameworks or static site generators!</p><hr><h3 class="anchor anchorWithStickyNavbar_mojV" id="ready-to-learn-lets-go">Ready To Learn? Let's Go!<a class="hash-link" href="#ready-to-learn-lets-go" title="Direct link to heading">​</a></h3><p><img loading="lazy" src="/30DaysOfSWA/assets/images/logo-746b1f64320de6844671bfc8c2f881f8.svg" width="250" height="250" class="img_E7b_"></p>]]></content>
+        <author>
+            <name>Nitya Narasimhan</name>
+            <uri>https://twitter.com/nitya</uri>
+        </author>
+        <author>
+            <name>Reshmi Sriram</name>
+            <uri>https://twitter.com/reshsriram</uri>
+        </author>
+        <category label="swa" term="swa"/>
+        <category label="30days" term="30days"/>
     </entry>
 </feed>
