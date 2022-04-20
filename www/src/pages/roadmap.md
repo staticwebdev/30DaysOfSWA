@@ -1,8 +1,10 @@
 # Roadmap
 
-This is a tentative roadmap for the #30Day learning journey into Azure Static Web Apps
+This is a tentative roadmap for the #30Day learning journey into Azure Static Web Apps, organized into 4 weeks of content (W1-W4) sandwiched between a Kickoff post (Day 1) and a Wrap-up post (Day 30). Here is what we plan to cover in each segment.
 
-## `Week 0: Kickoff`
+---
+
+## Kickoff
 
 | Title / Author | What We'll Cover | Exercise | Date |
 |:---|:---|:---|:---|
@@ -10,7 +12,7 @@ This is a tentative roadmap for the #30Day learning journey into Azure Static We
 
 ---
 
-## `Week 1: Core Concepts`
+## W1: Core Concepts
 
 _Welcome to the first week of your learning journey. Let's talk about some fundamental concepts for developing and deploying Static Web Apps. At the end of this week you should have built and deployed a basic SWA._
 
@@ -26,7 +28,7 @@ _Welcome to the first week of your learning journey. Let's talk about some funda
 
 ---
 
-## `Week 2: Usage Examples`
+## W2: Usage Examples
 
 _Welcome to Week 2. So you know what SWA is but what web frameworks and libraries can you use it with? And what kinds of applications can you spin up quickly using this approach? Let's look at some examples_.
 
@@ -44,7 +46,7 @@ _Welcome to Week 2. So you know what SWA is but what web frameworks and librarie
 
 ---
 
-## `Week 3: Developer Tools`
+## W3: Developer Tools
 
 _Welcome to Week 3 - let's talk about the developer experience in building and deploying modern web apps. We'll introduce you to a few tools that can simplify your develop-debug-deploy-test workflows. While some are SWA-specific, others are useful for modern web app dev in general._
 
@@ -61,7 +63,9 @@ _Welcome to Week 3 - let's talk about the developer experience in building and d
 
 ---
 
-## `Week 4: Tips & Integrations`
+## W4: Best Practices
+
+_We made it to the final week!! We've learned core concepts, seen examples of SWA in action, and explored tools to improve the developer experience. Now let's explore how SWA works with other Azure or third party services, and end with some tips and tricks to make your SWA development journey fun and functional!_
 
 | Title / Author | What We'll Cover | Exercise | Date |
 |:---|:---|:---|:---|
@@ -76,7 +80,7 @@ _Welcome to Week 3 - let's talk about the developer experience in building and d
 
 ---
 
-## `Week 5: Wrap-up`
+## Wrap-up
 
 | Title | What We'll Cover | Exercise | Date |
 |:---|:---|:---|:---|

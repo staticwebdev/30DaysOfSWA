@@ -34,6 +34,7 @@ const config = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/staticwebdev/30DaysOfSWA/tree/main/www',
+            blogSidebarCount: 'ALL',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -57,13 +58,14 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Exercises',
+            label: 'Quickstarts',
           },
-          {to: '/showcase', label: 'Showcase', position: 'left'},
+          {to: '/resources', label: 'Resources', position: 'left'},
           {
             href: 'https://github.com/staticwebdev/30DaysOfSWA',
-            label: 'GitHub',
             position: 'right',
+            className: 'header-github-link',
+            'aria-label': 'GitHub repository',
           },
         ],
       },
@@ -112,7 +114,7 @@ const config = {
           },
           */
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Nitya Narasimhan. Built with ❤️ using Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} JS Advocacy @MSFT - Built with ❤️ &nbsp; using Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

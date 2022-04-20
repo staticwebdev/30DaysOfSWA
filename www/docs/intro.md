@@ -2,46 +2,34 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Get Started With SWA
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Azure Static Web Apps comes with a number of development tools and options that align to different developer preferences. In this section we'll use a _vanillaJS_ web app (no front-end framework) to understand the different options available for your build/deploy developer workflow.
 
-## Getting Started
+## Quickstart Options
 
-Get started by **creating a new site**.
+Let's start with a basic web app and learn to build and deploy it to Static Web Apps using one of three options, based on your preferred developer experience:
+ 1. Using an IDE = Visual Studio Code
+ 2. Using a terminal = Azure CLI
+ 3. Using a browser = Azure Portal
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+In each of these cases, we use a _starter project_ that contains the application code, and focus primarily on configuring it for automated build/deploy with SWA. You can follow a similar approach with any other pre-existing app repo (e.g., one of your projects). 
+ * If your project uses a front-end framework, [configure the build process](https://docs.microsoft.com/en-us/azure/static-web-apps/front-end-frameworks) to suit the specific application _artifact location_ and _build command_ required.
+ * Check back periodically for more quickstart tutorials that focus on specific (popular or niche) front-end frameworks and static site generator options, that illustrate these changes with code.
 
-### What you'll need
+## Use: Visual Studio Code
 
-- [Node.js](https://nodejs.org/en/download/) version 14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Azure Static Web Apps publishes a website by building an app from a code repository. In this quickstart, you deploy an application to Azure Static Web apps using the Visual Studio Code extension. 
+ * Continue with [this tutorial](https://docs.microsoft.com/en-us/azure/static-web-apps/getting-started?tabs=vanilla-javascript)
 
-## Generate a new site
+## Use: Azure CLI
 
-Generate a new Docusaurus site using the **classic template**.
+Azure Static Web Apps publishes a website to a production environment by building apps from a GitHub repository. In this quickstart, you deploy a web application to Azure Static Web apps using the Azure CLI. 
+ * Continue with [this tutorial](https://docs.microsoft.com/en-us/azure/static-web-apps/get-started-cli?tabs=vanilla-javascript)
 
-The classic template will automatically be added to your project after you run the command:
 
-```bash
-npm init docusaurus@latest my-website classic
-```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## Use: Azure Portal
 
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Azure Static Web Apps publishes a website to a production environment by building apps from a GitHub repository. In this quickstart, you deploy a web application to Azure Static Web apps using the Azure portal. 
+ * Continue with [this tutorial](https://docs.microsoft.com/en-us/azure/static-web-apps/get-started-portal?tabs=vanilla-javascript)
