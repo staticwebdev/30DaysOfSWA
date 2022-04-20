@@ -33,43 +33,45 @@ _Welcome to Week 2. So you know what SWA is but what web frameworks and librarie
 
 | Title / Author | What We'll Cover | Exercise | Date |
 |:---|:---|:---|:---|
-| 1. Build a Personal Website | [Use Astro Static Site Generator](https://github.com/glaucia86/astro-swa-demo) | _Try it_ | May 9 |
-| 2. Build ??? | Use Next.js | _Try it_ | May 10 |
-| 3. Build a Docs Site | Use Docusaurus |  _Try it_ | May 11 |
-| 4. | | | May 12 🎂|
-| 5. | | | May 13 |
-| 6. | | | May 14|
-| 7. | | | May 15|
+| 1. Personal Website - Glaucia | [Astro](https://github.com/glaucia86/astro-swa-demo) | _Try it_ | May 9 |
+| 2. ??? - Aaron | React/Next.js | _Try it_ | May 10 |
+| 3. Themeable Docs - Nitya | React/Docusaurus |  _Try it_ | May 11 |
+| 4. Celebration Day 🔥 | ?? | _Register for Event_ | May 12 🎂|
+| 5. Headless CMS - Justin | [Blazor/WASM](https://github.com/justinyoo/blazor-wasm-azfunc-aswa) |  _Try it_| May 13 |
+| 6. Progressive Web App | [Eleventy/PWABuilder](https://dev.to/azure/07-developing-progressive-web-apps-hfb) - Nitya |  _Try it_| May 14|
+| 7. PoseDance TikTok Trainer - Jen | [Vue/PlayFab](https://github.com/jlooper/posedance) | _Try it_ | May 15|
 
 
 ---
 
 ## `Week 3: Developer Tools`
 
+_Welcome to Week 3 - let's talk about the developer experience in building and deploying modern web apps. We'll introduce you to a few tools that can simplify your develop-debug-deploy-test workflows. While some are SWA-specific, others are useful for modern web app dev in general._
+
 | Title / Author | What We'll Cover | Exercise | Date |
 |:---|:---|:---|:---|
-| 1. | | | May 16 |
-| 2. | | | May 17 |
-| 3. | | | May 18 |
-| 4. | | | May 19 |
-| 5. | | | May 20 |
-| 6. | | | May 21 |
-| 7. | | | May 22 |
+| 1. Visual Studio Code | Extensions for SWA/Web Dev | _Install & Try Them_ | May 16 |
+| 2. Azure Portal & CLI | Working with Azure backend | | May 17 |
+| 3. SWA CLI: Develop | Making local development easy | | May 18 |
+| 4. SWA CLI: Deploy | Making local deployment easy | | May 19 |
+| 5. Edge DevTools: Debug | In-browser perf, accessibility, linting | | May 20 |
+| 6. Playwright: Testing | E2E Cross-browser test & automation | | May 21 |
+| 7. Various: CI/CD | GH Actions, Azure DevOps, BB, GitLab| | May 22 |
 
 
 ---
 
-## `Week 4: Service Integrations`
+## `Week 4: Tips & Integrations`
 
 | Title / Author | What We'll Cover | Exercise | Date |
 |:---|:---|:---|:---|
-| 1. | | | May 23 |
-| 2. | | | May 24 |
-| 3. | | | May 25 |
-| 4. | | | May 26 |
-| 5. | | | May 27 |
-| 6. | | | May 28 |
-| 7. | | | May 29 |
+| 1. E2E Journey - Natalia | Best Practices & Personas? | _Try it_| May 23 |
+| 2. SWA + Cognitive Search - Dina | [Searchable Catalog](https://docs.microsoft.com/en-us/azure/search/tutorial-javascript-overview) | _Try it_ | May 24 |
+| 3. SWA + Cognitive Services - Dina| [Image Analysis](https://docs.microsoft.com/en-us/azure/developer/javascript/tutorial/static-web-app-image-analysis?tabs=bash%2Cvscode) | _Try it_| May 25 |
+| 4. SWA + Prisma - Glaucia| | _Try it_| May 26 |
+| 5. SWA + Bring Your Own Functions - Craig ?| | _Try it_| May 27 |
+| 6. SWA + Azure B2C - Justin? | | _Try it_| May 28 |
+| 7. SWA Tips & Tricks - Yohan | 2 new tips | _Try it_| May 29 |
 
 
 ---
