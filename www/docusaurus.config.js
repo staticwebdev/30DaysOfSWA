@@ -49,18 +49,23 @@ const config = {
       navbar: {
         title: '#30DaysOfSWA',
         logo: {
-          alt: 'My Site Logo',
+          alt: '#30DaysOfSWA Logo',
           src: 'img/logo.svg',
         },
         items: [
-          {to: '/blog', label: 'Articles', position: 'left'},
+          {to: '/blog', label: 'Series', position: 'left'},
+          {to: '/showcase', label: 'Showcase', position: 'left'},
+          {to: '/resources', label: 'Resources', position: 'left'},
+          {to: 'https://github.com/orgs/staticwebdev/discussions', label: 'Discussions', position: 'left'},
+          
+          /*
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Quickstarts',
+            label: 'Exercises',
           },
-          {to: '/resources', label: 'Resources', position: 'left'},
+          */
           {
             href: 'https://github.com/staticwebdev/30DaysOfSWA',
             position: 'right',
@@ -114,11 +119,31 @@ const config = {
           },
           */
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} JS Advocacy @MSFT - Built with ❤️ &nbsp; using Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Microsoft - Built with ❤️ &nbsp; using Docusaurus and Noun Project.`,
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      prism: {
+        theme: lightCodeTheme,
+        darkTheme: darkCodeTheme,
+      },
+
+      image: 'img/logo.png',
+
+      metadata: [{
+        name: 'twitter:card', 
+        content: 'Welcome to the Azure Static Web Apps Gallery of community-created projects! Explore the examples - or add your own!'
+      }],
+
+      announcementBar: {
+        id: 'Add Your Project!',
+        content:
+          'Join us May 19 for our first <a href="https://aka.ms/swaanniversary"><b>#SWAanniversary</b></a>',
+        backgroundColor: '#50E6FF',
+        textColor: '#552F99',
+        isCloseable: false,
       },
     }),
 };

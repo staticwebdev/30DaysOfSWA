@@ -6,38 +6,73 @@ const FeatureList = [
   {
     title: 'Building Blocks',
     Svg: require('@site/static/img/blocks.svg').default,
+    link: "roadmap#core-concepts",
     description: (
       <>
-        Start by learning the core concepts behind a technology or framework. Familiarize yourself with key terms.
+        Learn core concepts behind Azure Static Web Apps. Setup your dev environment.
       </>
     ),
   },
   {
-    title: 'Code in Action',
+    title: 'Usage Examples',
     Svg: require('@site/static/img/action.svg').default,
+    link: "roadmap#usage-examples",
     description: (
       <>
-        See those concepts in action by completing short tutorials or exercises that help reinforce ideas in real-world contexts.
+        See Static Web Apps in action with front-end frameworks,  static site generators.
       </>
     ),
   },
   {
-    title: 'Tools & Tips',
-    Svg: require('@site/static/img/practices.svg').default,
+    title: 'Developer Tools',
+    Svg: require('@site/static/img/tools.svg').default,
+    link: "roadmap#developer-tools",
     description: (
       <>
-        Explore developer tools and best practices for making workflows efficient and experiences delightful.
+        Explore tools and workflows that create the optimal developer experience.
+      </>
+    ),
+  },
+  {
+    title: 'Best Practices',
+    Svg: require('@site/static/img/tips.svg').default,
+    link: "/roadmap#best-practices",
+    description: (
+      <>
+       Design better end-to-end user experiences with rich service integrations.
+      </>
+    ),
+  },
+  {
+    title: 'SWA Showcase',
+    Svg: require('@site/static/img/showcase.svg').default,
+    link: "https://microsoft.github.io/static-web-apps-gallery-code-samples/",
+    description: (
+      <>
+        Browse community-contributed examples for inspiration. Add your project!
+      </>
+    ),
+  },
+  {
+    title: 'SWA Anniversary',
+    Svg: require('@site/static/img/anniversary.svg').default,
+    link: "https://aka.ms/swaanniversary",
+    description: (
+      <>
+        Join us May 19 for our SWA Anniversary. Watch it live or catch the replay.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, title, description, link}) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
+      <a href={link} target="_blank">
+        <div className="text--center">
+          <Svg className={styles.featureSvg} role="img" />
+        </div>
+      </a>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>
