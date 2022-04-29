@@ -6,6 +6,7 @@
 }
 
 .featureSvg {
-  height: 200px;
-  width: 200px;
+  height: 75px;
+  width: 75px;
+  fill: #a67af4; 
 }

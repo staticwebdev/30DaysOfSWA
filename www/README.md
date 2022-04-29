@@ -1,6 +1,6 @@
 # Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator. Icons are in SVG format from Microsoft [IconCloud](https://iconcloud.design/) and customized to theme colors with CSS.
 
 ### Installation
 

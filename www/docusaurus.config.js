@@ -24,11 +24,14 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
+        docs: false,
+        /*
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: 'https://github.com/staticwebdev/30DaysOfSWA/tree/main/www',
         },
+        */
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
@@ -54,9 +57,9 @@ const config = {
         },
         items: [
           {to: '/blog', label: 'Series', position: 'left'},
-          {to: '/showcase', label: 'Showcase', position: 'left'},
           {to: '/resources', label: 'Resources', position: 'left'},
-          {to: 'https://github.com/orgs/staticwebdev/discussions', label: 'Discussions', position: 'left'},
+          {to: '/showcase', label: 'Showcase', position: 'right'},
+          {to: 'https://github.com/orgs/staticwebdev/discussions', label: 'Discussions', position: 'right'},
           
           /*
           {
@@ -119,7 +122,7 @@ const config = {
           },
           */
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Microsoft - Built with ❤️ &nbsp; using Docusaurus and Noun Project.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Microsoft - Built with ❤️ &nbsp; using Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
