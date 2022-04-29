@@ -4,10 +4,15 @@
         <title>#30DaysOfSWA Blog</title>
         <link>https://staticwebdev.github.io/blog</link>
         <description>#30DaysOfSWA Blog</description>
-        <lastBuildDate>Sat, 01 May 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <link>https://staticwebdev.github.io/blog/2021/05/02/</link>
+            <guid>/2021/05/02/</guid>
+            <pubDate>Sun, 02 May 2021 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[#01: Kickoff Time!]]></title>
             <link>https://staticwebdev.github.io/blog/kickoff</link>

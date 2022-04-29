@@ -2,11 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://staticwebdev.github.io/blog</id>
     <title>#30DaysOfSWA Blog</title>
-    <updated>2021-05-01T00:00:00.000Z</updated>
+    <updated>2021-05-02T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://staticwebdev.github.io/blog"/>
     <subtitle>#30DaysOfSWA Blog</subtitle>
     <icon>https://staticwebdev.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>/2021/05/02/</id>
+        <link href="https://staticwebdev.github.io/blog/2021/05/02/"/>
+        <updated>2021-05-02T00:00:00.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#01: Kickoff Time!]]></title>
         <id>kickoff</id>
