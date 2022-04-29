@@ -49,6 +49,10 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      tableOfContents: {
+        minHeadingLevel: 2,
+        maxHeadingLevel: 3,
+      },
       navbar: {
         title: '#30DaysOfSWA',
         logo: {
