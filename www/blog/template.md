@@ -1,6 +1,6 @@
 ---
 slug: post-slug
-title: "#XX: Topic Title"
+title: "#XX: Post Template"
 authors: [nitya]
 tags: [swa, 30days, core-concepts, dev-tools, usage-examples, best-practices]
 draft: true
