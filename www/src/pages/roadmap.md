@@ -15,7 +15,7 @@ So share your questions, comments and suggestions. Help us make this more journe
 
 | Title  | What We'll Cover | Author(s) | Date |
 |:---|:---|:---|:---|
-| [**Kickoff**](../../blog/kickoff) | - What is #30DaysOfSWA? <br/> - How can you participate? <br/> - Who is behind it? <br/>  **Visual**: Week 1 Roadmap <br/> **Exercise:** Introduce yourself on our [Discussions](https://github.com/orgs/staticwebdev/discussions/categories/-30daysofswa) board. | `Reshmi` <br/> `Nitya`| May 1 |
+| **Kickoff** | - What is #30DaysOfSWA? <br/> - How can you participate? <br/> - Who is behind it? <br/>  **Visual**: Week 1 Roadmap <br/> **Exercise:** Introduce yourself on our [Discussions](https://github.com/orgs/staticwebdev/discussions/categories/-30daysofswa) board. | `Reshmi` <br/> `Nitya`| May 1 |
 
 ---
 
