@@ -62,6 +62,7 @@ const config = {
         items: [
           {to: '/blog', label: 'Series', position: 'left'},
           {to: '/resources', label: 'Resources', position: 'left'},
+          {to: '/roadmap', label: 'Roadmap', position: 'left'},
           {to: '/showcase', label: 'Showcase', position: 'right'},
           {to: 'https://github.com/orgs/staticwebdev/discussions', label: 'Discussions', position: 'right'},
           

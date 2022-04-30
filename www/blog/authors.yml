@@ -8,10 +8,40 @@ reshmi:
   name: Reshmi Sriram
   title: PM, Static Web Apps @Microsoft
   url: https://twitter.com/reshsriram
-  image_url: https://github.com/Reshmi-Sriram.png
+  image_url: https://github.com/Reshmi-Sriram.png\
+
+simona:
+  name: Simona Cotin
+  title: Principal PM @Microsoft
+  url: https://github.com/simonaco
+  image_url: https://github.com/simonaco.png
+
+glaucia:
+  name: Glaucia Llemos
+  title: Cloud Advocate @Microsoft
+  url: https://github.com/glaucia86
+  image_url: https://github.com/glaucia86.png
+
+anthony:
+  name: Anthony Chu
+  title: Senior PM @Microsoft
+  url: https://github.com/anthonychu
+  image_url: https://github.com/anthonychu.png
+
+mitali:
+  name: Mitali Karmarkar
+  title: Software Engineer @Microsoft
+  url: https://twitter.com/KarmarkarMitali
+  image_url: https://pbs.twimg.com/profile_images/1292880690237718529/yFXe2D99_400x400.jpg
 
 michail:
   name: Michail Shaposhnikov
   title: Software Engineer @Microsoft
   url: https://github.com/mishapos
   image_url: https://github.com/mishapos.png
+
+joseph:
+  name: Joseph Lin
+  title: Software Engineer @Microsoft
+  url: https://github.com/joslinmicrosoft
+  image_url: https://github.com/joslinmicrosoft.png
