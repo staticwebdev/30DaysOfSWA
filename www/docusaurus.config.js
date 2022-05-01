@@ -9,7 +9,7 @@ const config = {
   title: '#30DaysOfSWA',
   tagline: 'Bring Your App Ideas to Life with Static Web Apps',
   url: 'https://staticwebdev.github.io',
-  baseUrl: '/',
+  baseUrl: '/', // NOTE: Use '/30DaysOfSWA/' for GH Pages. '/' otherwise
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
