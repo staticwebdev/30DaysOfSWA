@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwww=self.webpackChunkwww||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Kickoff #30DaysOfSWA!","permalink":"/blog/kickoff"},{"title":"It\'s the SWA-anniversary!!","permalink":"/blog/swanniversary"}]}')}}]);
