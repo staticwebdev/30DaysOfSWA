@@ -148,7 +148,7 @@ const config = {
       announcementBar: {
         id: 'Add Your Project!',
         content:
-          'Join us May 19 for our first <a href="https://aka.ms/swaanniversary"><b>#SWAanniversary</b></a>',
+          'Join us for <a href="https://aka.ms/swaanniversary"><b>#SWAanniversary</b></a> on May 19  |  Learn with <a href="https://aka.ms/30DaysOfSWA"><b>#30DaysOfSWA</b></a>',
         backgroundColor: '#50E6FF',
         textColor: '#552F99',
         isCloseable: false,

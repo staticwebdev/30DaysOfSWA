@@ -4,6 +4,16 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
+    title: '#30DaysOfSWA',
+    Svg: require('@site/static/img/logo.svg').default,
+    link: "blog",
+    description: (
+      <>
+        Jumpstart your learning with the #30DaysofSWA blog series.
+      </>
+    ),
+  },
+  {
     title: 'Building Blocks',
     Svg: require('@site/static/img/landing-blocks.svg').default,
     link: "roadmap#core-concepts",
