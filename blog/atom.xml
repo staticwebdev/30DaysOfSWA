@@ -2,98 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://staticwebdev.github.io/blog</id>
     <title>#30DaysOfSWA Blog</title>
-    <updated>2021-05-08T00:00:00.000Z</updated>
+    <updated>2021-05-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://staticwebdev.github.io/blog"/>
     <subtitle>#30DaysOfSWA Blog</subtitle>
     <icon>https://staticwebdev.github.io/img/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[#07: Deploying SWA]]></title>
-        <id>deploying-swa</id>
-        <link href="https://staticwebdev.github.io/blog/deploying-swa"/>
-        <updated>2021-05-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Week 1, Day 3 of #30DaysOfSWA!!]]></summary>
-        <content type="html"><![CDATA[<p>Welcome to <code>Week 1, Day 3</code> of <strong>#30DaysOfSWA</strong>!! </p><p>Yesterday we talked about .... Today we'll explore ...</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="what-well-cover">What We'll Cover<a class="hash-link" href="#what-well-cover" title="Direct link to heading">​</a></h2><ul><li></li><li></li><li></li><li><strong>Exercise</strong> </li><li><strong>Resource(s):</strong> </li></ul><p><img loading="lazy" src="/assets/images/03-banner-9229849fe218e3e7721c3687fb4299d8.png" width="1000" height="420" class="img_E7b_"></p>]]></content>
-        <author>
-            <name>Reshmi Sriram</name>
-            <uri>https://twitter.com/reshsriram</uri>
-        </author>
-        <category label="swa" term="swa"/>
-        <category label="30days" term="30days"/>
-        <category label="core-concepts" term="core-concepts"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#06: Previewing SWA]]></title>
-        <id>previewing-swa</id>
-        <link href="https://staticwebdev.github.io/blog/previewing-swa"/>
-        <updated>2021-05-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Week 1, Day 6 of #30DaysOfSWA!!]]></summary>
-        <content type="html"><![CDATA[<p>Welcome to <code>Week 1, Day 6</code> of <strong>#30DaysOfSWA</strong>!! </p><p>Yesterday we talked about .... Today we'll explore ...</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="what-well-cover">What We'll Cover<a class="hash-link" href="#what-well-cover" title="Direct link to heading">​</a></h2><ul><li></li><li></li><li></li><li><strong>Exercise</strong> </li><li><strong>Resource(s):</strong> </li></ul><p><img loading="lazy" src="/assets/images/06-banner-61bc882bb4eeab384737b9af399a4729.png" width="1000" height="420" class="img_E7b_"></p>]]></content>
-        <author>
-            <name>Michail Shaposhnikov</name>
-            <uri>https://github.com/mishapos</uri>
-        </author>
-        <category label="swa" term="swa"/>
-        <category label="30days" term="30days"/>
-        <category label="core-concepts" term="core-concepts"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#05: Securing SWA]]></title>
-        <id>securing-swa</id>
-        <link href="https://staticwebdev.github.io/blog/securing-swa"/>
-        <updated>2021-05-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Week 1, Day 5 of #30DaysOfSWA!!]]></summary>
-        <content type="html"><![CDATA[<p>Welcome to <code>Week 1, Day 5</code> of <strong>#30DaysOfSWA</strong>!! </p><p>Yesterday we talked about .... Today we'll explore ...</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="what-well-cover">What We'll Cover<a class="hash-link" href="#what-well-cover" title="Direct link to heading">​</a></h2><ul><li></li><li></li><li></li><li><strong>Exercise</strong> </li><li><strong>Resource(s):</strong> </li></ul><p><img loading="lazy" src="/assets/images/05-banner-f2d0e1e3e3a7b7cd79bb8d3afcab9ccf.png" width="1000" height="420" class="img_E7b_"></p>]]></content>
-        <author>
-            <name>Mitali Karmarkar</name>
-            <uri>https://twitter.com/KarmarkarMitali</uri>
-        </author>
-        <author>
-            <name>Nitya Narasimhan</name>
-            <uri>https://twitter.com/nitya</uri>
-        </author>
-        <category label="swa" term="swa"/>
-        <category label="30days" term="30days"/>
-        <category label="core-concepts" term="core-concepts"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#04: Configuring SWA]]></title>
-        <id>configuring-swa</id>
-        <link href="https://staticwebdev.github.io/blog/configuring-swa"/>
-        <updated>2021-05-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Week 1, Day 4 of #30DaysOfSWA!!]]></summary>
-        <content type="html"><![CDATA[<p>Welcome to <code>Week 1, Day 4</code> of <strong>#30DaysOfSWA</strong>!! </p><p>Yesterday we talked about .... Today we'll explore ...</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="what-well-cover">What We'll Cover<a class="hash-link" href="#what-well-cover" title="Direct link to heading">​</a></h2><ul><li></li><li></li><li></li><li><strong>Exercise</strong> </li><li><strong>Resource(s):</strong> </li></ul><p><img loading="lazy" src="/assets/images/04-banner-5f520120b15aa8df2096e85c3708196c.png" width="1000" height="420" class="img_E7b_"></p>]]></content>
-        <author>
-            <name>Joseph Lin</name>
-            <uri>https://github.com/joslinmicrosoft</uri>
-        </author>
-        <author>
-            <name>Nitya Narasimhan</name>
-            <uri>https://twitter.com/nitya</uri>
-        </author>
-        <category label="swa" term="swa"/>
-        <category label="30days" term="30days"/>
-        <category label="core-concepts" term="core-concepts"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#03: API-Enabling SWA]]></title>
-        <id>api-enabling-swa</id>
-        <link href="https://staticwebdev.github.io/blog/api-enabling-swa"/>
-        <updated>2021-05-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Week 1, Day 3 of #30DaysOfSWA!!]]></summary>
-        <content type="html"><![CDATA[<p>Welcome to <code>Week 1, Day 3</code> of <strong>#30DaysOfSWA</strong>!! </p><p>Yesterday we talked about .... Today we'll explore ...</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="what-well-cover">What We'll Cover<a class="hash-link" href="#what-well-cover" title="Direct link to heading">​</a></h2><ul><li>Why go Serverless with SWA?</li><li>What is Azure Functions?</li><li>Managed Functions vs. Bring Your Own</li><li><strong>Example:</strong> Bring <a href="https://github.com/sinedied/azure-swag/" target="_blank" rel="noopener noreferrer">Azure-SWAG</a> to May 4!</li><li><strong>Exercise:</strong> Try it out yourself!</li><li><strong>Resource(s):</strong> <ul><li><a href="https://docs.microsoft.com/en-us/azure/static-web-apps/apis" target="_blank" rel="noopener noreferrer">API Support in SWA</a></li><li><a href="https://docs.microsoft.com/en-us/azure/static-web-apps/add-api?tabs=vanilla-javascript" target="_blank" rel="noopener noreferrer">Add API with Managed Functions</a></li><li><a href="https://docs.microsoft.com/en-us/azure/static-web-apps/functions-bring-your-own" target="_blank" rel="noopener noreferrer">Bring Your Own Functions</a></li></ul></li></ul><p><img loading="lazy" src="/assets/images/03-banner-9229849fe218e3e7721c3687fb4299d8.png" width="1000" height="420" class="img_E7b_"></p>]]></content>
-        <author>
-            <name>Anthony Chu</name>
-            <uri>https://github.com/anthonychu</uri>
-        </author>
-        <author>
-            <name>Nitya Narasimhan</name>
-            <uri>https://twitter.com/nitya</uri>
-        </author>
-        <category label="swa" term="swa"/>
-        <category label="30days" term="30days"/>
-        <category label="core-concepts" term="core-concepts"/>
-    </entry>
     <entry>
         <title type="html"><![CDATA[#02: Building SWA]]></title>
         <id>building-swa</id>

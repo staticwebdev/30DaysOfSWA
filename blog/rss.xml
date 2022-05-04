@@ -4,65 +4,10 @@
         <title>#30DaysOfSWA Blog</title>
         <link>https://staticwebdev.github.io/blog</link>
         <description>#30DaysOfSWA Blog</description>
-        <lastBuildDate>Sat, 08 May 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[#07: Deploying SWA]]></title>
-            <link>https://staticwebdev.github.io/blog/deploying-swa</link>
-            <guid>deploying-swa</guid>
-            <pubDate>Sat, 08 May 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to Week 1, Day 3 of #30DaysOfSWA!!]]></description>
-            <content:encoded><![CDATA[<p>Welcome to <code>Week 1, Day 3</code> of <strong>#30DaysOfSWA</strong>!! </p><p>Yesterday we talked about .... Today we'll explore ...</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="what-well-cover">What We'll Cover<a class="hash-link" href="#what-well-cover" title="Direct link to heading">​</a></h2><ul><li></li><li></li><li></li><li><strong>Exercise</strong> </li><li><strong>Resource(s):</strong> </li></ul><p><img loading="lazy" src="/assets/images/03-banner-9229849fe218e3e7721c3687fb4299d8.png" width="1000" height="420" class="img_E7b_"></p>]]></content:encoded>
-            <category>swa</category>
-            <category>30days</category>
-            <category>core-concepts</category>
-        </item>
-        <item>
-            <title><![CDATA[#06: Previewing SWA]]></title>
-            <link>https://staticwebdev.github.io/blog/previewing-swa</link>
-            <guid>previewing-swa</guid>
-            <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to Week 1, Day 6 of #30DaysOfSWA!!]]></description>
-            <content:encoded><![CDATA[<p>Welcome to <code>Week 1, Day 6</code> of <strong>#30DaysOfSWA</strong>!! </p><p>Yesterday we talked about .... Today we'll explore ...</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="what-well-cover">What We'll Cover<a class="hash-link" href="#what-well-cover" title="Direct link to heading">​</a></h2><ul><li></li><li></li><li></li><li><strong>Exercise</strong> </li><li><strong>Resource(s):</strong> </li></ul><p><img loading="lazy" src="/assets/images/06-banner-61bc882bb4eeab384737b9af399a4729.png" width="1000" height="420" class="img_E7b_"></p>]]></content:encoded>
-            <category>swa</category>
-            <category>30days</category>
-            <category>core-concepts</category>
-        </item>
-        <item>
-            <title><![CDATA[#05: Securing SWA]]></title>
-            <link>https://staticwebdev.github.io/blog/securing-swa</link>
-            <guid>securing-swa</guid>
-            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to Week 1, Day 5 of #30DaysOfSWA!!]]></description>
-            <content:encoded><![CDATA[<p>Welcome to <code>Week 1, Day 5</code> of <strong>#30DaysOfSWA</strong>!! </p><p>Yesterday we talked about .... Today we'll explore ...</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="what-well-cover">What We'll Cover<a class="hash-link" href="#what-well-cover" title="Direct link to heading">​</a></h2><ul><li></li><li></li><li></li><li><strong>Exercise</strong> </li><li><strong>Resource(s):</strong> </li></ul><p><img loading="lazy" src="/assets/images/05-banner-f2d0e1e3e3a7b7cd79bb8d3afcab9ccf.png" width="1000" height="420" class="img_E7b_"></p>]]></content:encoded>
-            <category>swa</category>
-            <category>30days</category>
-            <category>core-concepts</category>
-        </item>
-        <item>
-            <title><![CDATA[#04: Configuring SWA]]></title>
-            <link>https://staticwebdev.github.io/blog/configuring-swa</link>
-            <guid>configuring-swa</guid>
-            <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to Week 1, Day 4 of #30DaysOfSWA!!]]></description>
-            <content:encoded><![CDATA[<p>Welcome to <code>Week 1, Day 4</code> of <strong>#30DaysOfSWA</strong>!! </p><p>Yesterday we talked about .... Today we'll explore ...</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="what-well-cover">What We'll Cover<a class="hash-link" href="#what-well-cover" title="Direct link to heading">​</a></h2><ul><li></li><li></li><li></li><li><strong>Exercise</strong> </li><li><strong>Resource(s):</strong> </li></ul><p><img loading="lazy" src="/assets/images/04-banner-5f520120b15aa8df2096e85c3708196c.png" width="1000" height="420" class="img_E7b_"></p>]]></content:encoded>
-            <category>swa</category>
-            <category>30days</category>
-            <category>core-concepts</category>
-        </item>
-        <item>
-            <title><![CDATA[#03: API-Enabling SWA]]></title>
-            <link>https://staticwebdev.github.io/blog/api-enabling-swa</link>
-            <guid>api-enabling-swa</guid>
-            <pubDate>Tue, 04 May 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to Week 1, Day 3 of #30DaysOfSWA!!]]></description>
-            <content:encoded><![CDATA[<p>Welcome to <code>Week 1, Day 3</code> of <strong>#30DaysOfSWA</strong>!! </p><p>Yesterday we talked about .... Today we'll explore ...</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="what-well-cover">What We'll Cover<a class="hash-link" href="#what-well-cover" title="Direct link to heading">​</a></h2><ul><li>Why go Serverless with SWA?</li><li>What is Azure Functions?</li><li>Managed Functions vs. Bring Your Own</li><li><strong>Example:</strong> Bring <a href="https://github.com/sinedied/azure-swag/" target="_blank" rel="noopener noreferrer">Azure-SWAG</a> to May 4!</li><li><strong>Exercise:</strong> Try it out yourself!</li><li><strong>Resource(s):</strong> <ul><li><a href="https://docs.microsoft.com/en-us/azure/static-web-apps/apis" target="_blank" rel="noopener noreferrer">API Support in SWA</a></li><li><a href="https://docs.microsoft.com/en-us/azure/static-web-apps/add-api?tabs=vanilla-javascript" target="_blank" rel="noopener noreferrer">Add API with Managed Functions</a></li><li><a href="https://docs.microsoft.com/en-us/azure/static-web-apps/functions-bring-your-own" target="_blank" rel="noopener noreferrer">Bring Your Own Functions</a></li></ul></li></ul><p><img loading="lazy" src="/assets/images/03-banner-9229849fe218e3e7721c3687fb4299d8.png" width="1000" height="420" class="img_E7b_"></p>]]></content:encoded>
-            <category>swa</category>
-            <category>30days</category>
-            <category>core-concepts</category>
-        </item>
         <item>
             <title><![CDATA[#02: Building SWA]]></title>
             <link>https://staticwebdev.github.io/blog/building-swa</link>
