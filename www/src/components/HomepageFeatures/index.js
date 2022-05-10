@@ -36,7 +36,7 @@ const FeatureList = [
   {
     title: 'Developer Tools',
     Svg: require('@site/static/img/landing-devtools.svg').default,
-    link: "blog/tags/dev-tools",
+    link: "roadmap",
     description: (
       <>
         Explore tools and workflows that create the optimal developer experience.
@@ -46,7 +46,7 @@ const FeatureList = [
   {
     title: 'Best Practices',
     Svg: require('@site/static/img/landing-tips.svg').default,
-    link: "blog/tags/#best-practices",
+    link: "roadmap",
     description: (
       <>
        Design better end-to-end user experiences with rich service integrations.
