@@ -45,3 +45,87 @@ joseph:
   title: Software Engineer @Microsoft
   url: https://github.com/joslinmicrosoft
   image_url: https://github.com/joslinmicrosoft.png
+
+chris:
+  name: Chris Noring
+  title: Senior Cloud Advocate @Microsoft
+  url: https://twitter.com/chris_noring
+  image_url: https://github.com/softchris.png
+
+justin:
+  name: Justin Yoo
+  title: Senior Cloud Advocate @Microsoft
+  url: http://devkimchi.com
+  image_url: https://github.com/justinyoo.png
+
+max:
+  name: Max Salnikov
+  title: Senior Cloud Advocate @Microsoft
+  url: http://devkimchi.com
+  image_url: https://github.com/justinyoo.png
+
+jen:
+  name: Jen Looper
+  title: Principal Cloud Advocate @Microsoft
+  url: https://github.com/jlooper
+  image_url: https://github.com/jlooper.png
+
+alex:
+  name: Alex Weininger
+  title: Developer @Microsoft, for @code and @Azure
+  url: https://twitter.com/alexweininger
+  image_url: https://github.com/alexweininger.png
+
+patrick:
+  name: Patrick Brosset
+  title: Edge Dev Experience PM @Microsoft
+  url: https://twitter.com/patrickbrosset
+  image_url: https://github.com/captainbrosset.png
+
+yohan:
+  name: Yohan Lasorsa
+  title: Senior Cloud Advocate @Microsoft
+  url: https://twitter.com/sinedied
+  image_url: https://github.com/sinedied.png
+
+wassim:
+  name: Wassim Chegham
+  title: Senior Cloud Advocate @Microsoft
+  url: https://twitter.com/manekinekko
+  image_url: https://github.com/manekinekko.png
+
+natalia:
+  name: Natalia Venditto
+  title: Principal Program Manager @Microsoft
+  url: https://github.com/anfibiacreativa
+  image_url: https://github.com/anfibiacreativa.png
+
+dina:
+  name: Dina Berryhttps://github.com/anfibiacreativa
+  title: Senior Content Developer @Microsoft
+  url: https://github.com/diberry
+  image_url: https://github.com/diberry.png
+
+oliver:
+  name: Oliver Leplus
+  title: Developer Relations @Microsoft France
+  url: https://github.com/tagazok
+  image_url: https://github.com/tagazok.png
+
+jeff:
+  name: Jeff Fritz
+  title: Program Manager @Microsoft
+  url: https://github.com/csharpfritz
+  image_url: https://github.com/csharpfritz.png
+
+craig:
+  name: Craig Shoemaker
+  title: Senior Content Developer @Microsoft
+  url: https://craigshoemaker.net/
+  image_url: https://github.com/craigshoemaker.png
+
+david:
+  name: David Rousset
+  title: Senior Program Manager @Microsoft
+  url: https://github.com/davrous
+  image_url: https://github.com/davrous.png
