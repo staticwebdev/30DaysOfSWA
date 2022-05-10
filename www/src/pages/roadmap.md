@@ -42,13 +42,13 @@ So share your questions, comments and suggestions. Help us make this more journe
 
 | Title / Author | What We'll Cover | Exercise | Date |
 |:---|:---|:---|:---|
-| Personal Blog <br/> `Glaucia Lemos` | [Astro](https://github.com/glaucia86/astro-swa-demo) | _Try it_ | May 9 |
-| Inventory Management <br/> `Chris Noring`  | [React](https://reactjs.org/) | _Try it_ | May 10 |
-| E-Commerce / CMS <br/> `Simona` | [NuxtJS, Strapi](https://www.aswa.cloud/) & Headless CMS  |  _Try it_ | May 11 |
-| Documentation Site <br/> `Nitya`| [Docusaurus](https://microsoft.github.io/static-web-apps-gallery-code-samples/) | _Add Your Project_| May 12 🎂|
-| Headless CMS <br/> `Justin` | [Blazor/WASM](https://github.com/justinyoo/blazor-wasm-azfunc-aswa) |  _Try it_| May 13 |
+| Build a Blog with Astro <br/> `Glaucia Lemos` | [Astro](https://github.com/glaucia86/astro-swa-demo) | _Try it_ | May 9 |
+| Manage Inventory With React <br/> `Chris Noring`  | [React](https://reactjs.org/) | _Try it_ | May 10 |
+| Get Creative With Vue.js  <br/> `Jen` | [Vue/PlayFab](https://github.com/jlooper/posedance) | _Try it_ | May 11|
+| Run #30Days with Docusaurus <br/> `Nitya`| [Docusaurus](https://microsoft.github.io/static-web-apps-gallery-code-samples/) | _Add Your Project_| May 12 🎂|
+| Headless CMS with Blazor <br/> `Justin` | [Blazor/WASM](https://github.com/justinyoo/blazor-wasm-azfunc-aswa) |  _Try it_| May 13 |
 | Progressive Web App  <br/> `Maxim/Nitya?`| ??? /[Eleventy/PWA](https://dev.to/azure/07-developing-progressive-web-apps-hfb) - Nitya |  _Try it_| May 14|
-| PoseDance TikTok Trainer  <br/> `Jen` | [Vue/PlayFab](https://github.com/jlooper/posedance) | _Try it_ | May 15|
+|Shop Stickers with Strapi/Nuxt <br/> `Simona` | [NuxtJS, Strapi](https://www.aswa.cloud/) & Headless CMS  |  _Try it_ | May 15 |
 
 
 ---
@@ -59,13 +59,13 @@ So share your questions, comments and suggestions. Help us make this more journe
 
 | Title / Author | What We'll Cover | Exercise | Date |
 |:---|:---|:---|:---|
-| 1. Visual Studio Code <br/> `Alex`| Extensions for SWA/Web Dev | _Try It_ | May 16 |
-| 2. Azure Portal & CLI <br/> `Nitya/???`| Working with Azure backend | _Try It_ | May 17 |
+| 1. Azure Portal & CLI <br/> `Nitya/???`| Working with Azure backend | _Try It_ | May 16 |
+| 2. Playwright: Testing <br/> `Nitya/???` | E2E Cross-browser test & automation | _Try It_ | May 17 |
 | 3. Azure DevOps CI/CD <br/> `Anthony` |Core Tools| _Try It_ | May 18 |
 | 4. Edge DevTools<br/> `Patrick` | In-browser perf, accessibility, linting | _Try It_ | May 19 🦻🏼 |
 | 5. SWA CLI: Part 1 <br/> `Yohan` | Making local development easy |  _Try It_| May 20 |
 | 6. SWA CLI: Part 2 <br/> `Wassim`| Making local deployment easy |  _Try It_| May 21 |
-| 7. Playwright: Testing <br/> `Nitya/???` | E2E Cross-browser test & automation | _Try It_ | May 22 |
+| 7. Visual Studio Code <br/> `Alex`| Streamlining SWA/Web Dev in IDE | _Try It_ | May 22 |
 
 
 ---
@@ -76,13 +76,13 @@ So share your questions, comments and suggestions. Help us make this more journe
 
 | Title / Author | What We'll Cover | Exercise | Date |
 |:---|:---|:---|:---|
-| 1. E2E Journey <br/> `Natalia` | Best Practices & Personas? | _Try it_| May 23 |
-| 2. SWA + Cognitive Search <br/> `Dina` | [Searchable Catalog](https://docs.microsoft.com/en-us/azure/search/tutorial-javascript-overview) | _Try it_ | May 24 |
-| 3. SWA + Cognitive Services <br/> `Oliver Leplus`| Custom Vision Workshop | _Try it_| May 25 |
-| 4. SWA + Prisma <br/> `Glaucia`| | _Try it_| May 26 |
-| 5. SWA + Bring Your Own Functions <br/> `Craig`| | _Try it_| May 27 |
-| 6. SWA + Databases <br/> `David Rousset` | CosmosDB, Azure Comm. Services| _Try it_| May 28 |
-| 7. SWA Tips & Tricks <br/> `Yohan` | 2 new tips | _Try it_| May 29 |
+| 1. E2E Journeys with SWA <br/> `Natalia` | Best Practices & Personas? | _Try it_| May 23 |
+| 2. Cognitive Search with SWA <br/> `Dina Berry` | [Searchable Catalog](https://docs.microsoft.com/en-us/azure/search/tutorial-javascript-overview) | _Try it_ | May 24 |
+| 3. Custom Vision With SWA<br/> `Oliver Leplus`| Custom Vision Workshop | _Try it_| May 25 |
+| 4. KlipTok: A SWA Case Study <br/> `Jeff Fritz`| | _Try it_| May 26 |
+| 5. Bring Your Own Functions with SWA <br/> `Craig Shoemaker`| | _Try it_| May 27 |
+| 6. CosmosDB with SWA <br/> `David Rousset` | CosmosDB, Azure Comm. Services| _Try it_| May 28 |
+| 7. Tips & Tricks with SWA <br/> `Yohan` | 2 new tips | _Try it_| May 29 |
 
 
 ---
