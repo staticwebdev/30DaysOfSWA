@@ -42,8 +42,8 @@ So share your questions, comments and suggestions. Help us make this more journe
 
 | Title / Author | What We'll Cover | Exercise | Date |
 |:---|:---|:---|:---|
-| Personal Website <br/> `Glaucia` | [Astro](https://github.com/glaucia86/astro-swa-demo) | _Try it_ | May 9 |
-| Trivia Game <br/> `Aaron`  | Next.JS, GraphQL | _Try it_ | May 10 |
+| Personal Blog <br/> `Glaucia Lemos` | [Astro](https://github.com/glaucia86/astro-swa-demo) | _Try it_ | May 9 |
+| Inventory Management <br/> `Chris Noring`  | [React](https://reactjs.org/) | _Try it_ | May 10 |
 | E-Commerce / CMS <br/> `Simona` | [NuxtJS, Strapi](https://www.aswa.cloud/) & Headless CMS  |  _Try it_ | May 11 |
 | Documentation Site <br/> `Nitya`| [Docusaurus](https://microsoft.github.io/static-web-apps-gallery-code-samples/) | _Add Your Project_| May 12 🎂|
 | Headless CMS <br/> `Justin` | [Blazor/WASM](https://github.com/justinyoo/blazor-wasm-azfunc-aswa) |  _Try it_| May 13 |
