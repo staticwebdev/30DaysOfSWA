@@ -8,7 +8,7 @@ Welcome to #30DaysOfSWA - a project to give beginners and experienced developers
 
 ![30DaysOfSWA Logo](www/static/img/logo.svg)
 
-Visit our [Website](https://staticwebdev.github.io/30DaysOfSWA/) to view the content and learn more about the contributors and objectives for this project.
+Visit our [Website](https://aka.ms/30DaysOfSWA) to view the content and learn more about the contributors and objectives for this project.
 
 ---
 
