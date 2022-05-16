@@ -127,7 +127,7 @@ const config = {
           },
           */
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Microsoft - Built with ❤️ &nbsp; using Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Microsoft - Built by <a href="https://github.com/nitya"> @nitya </a> with ❤️ &nbsp; using Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
@@ -144,12 +144,25 @@ const config = {
       announcementBar: {
         id: 'Add Your Project!',
         content:
-          'Join us for <a href="https://aka.ms/swaanniversary"><b>#SWAanniversary</b></a> on May 19  |  Learn with <a href="https://aka.ms/30DaysOfSWA"><b>#30DaysOfSWA</b></a>',
+          '<b>If you found #30DaysOfSWA useful, give it a star on <a href="https://github.com/staticwebdev/30DaysOfSWA"><b>GitHub</b></a></b>',
         backgroundColor: '#50E6FF',
         textColor: '#552F99',
         isCloseable: false,
       },
     }),
+  
+  plugins: [
+    [
+      '@docusaurus/plugin-ideal-image',
+      {
+        quality: 70,
+        max: 1030, // max resized image's size.
+        min: 640, // min resized image's size. 
+        steps: 2, // #images b/w min and max (inclusive)
+        disableInDev: false,
+      },
+    ],
+  ],
 };
 
 module.exports = config;
