@@ -144,7 +144,10 @@ const config = {
       announcementBar: {
         id: 'Add Your Project!',
         content:
-          '<b>If you found #30DaysOfSWA useful, give it a star on <a href="https://github.com/staticwebdev/30DaysOfSWA"><b>GitHub</b></a></b>',
+        /*
+          '<b>Find #30DaysOfSWA useful? Give it a star on <a href="https://github.com/staticwebdev/30DaysOfSWA"><b>GitHub</b></a></b>',
+        */
+          '<b>Joins us May 19, 2021 for the <a href="https://aka.ms/SWAanniversary"><b>#SWAanniversary</b> event!</a></b>',
         backgroundColor: '#50E6FF',
         textColor: '#552F99',
         isCloseable: false,
