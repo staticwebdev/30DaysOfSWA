@@ -129,3 +129,15 @@ david:
   title: Senior Program Manager @Microsoft
   url: https://github.com/davrous
   image_url: https://github.com/davrous.png
+
+debbie:
+  name: Debbie O'Brien
+  title: Senior PM @Microsoft @Playwright
+  url: https://github.com/debs-obrien
+  image_url: https://github.com/debs-obrien.png
+
+ayşegül:
+  name: Ayşegül Yönet
+  title: Senior Developer Advocate @Microsoft
+  url: https://github.com/Yonet
+  image_url: https://github.com/Yonet.png
