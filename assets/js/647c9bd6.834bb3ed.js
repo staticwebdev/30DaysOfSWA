@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwww=self.webpackChunkwww||[]).push([[8848],{2593:function(a){a.exports=JSON.parse('{"label":"react","permalink":"/30DaysOfSWA/blog/tags/react","allTagsPath":"/30DaysOfSWA/blog/tags","count":2}')}}]);
