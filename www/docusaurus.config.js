@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: '#30DaysOfSWA',
   tagline: 'Bring Your App Ideas to Life with Static Web Apps',
-  url: 'https://staticwebdev.github.io',
+  url: 'https://www.azurestaticwebapps.dev',
   baseUrl: '/', // NOTE: Use '/30DaysOfSWA/' for GH Pages. '/' otherwise
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -60,11 +60,13 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {to: '/blog', label: 'Series', position: 'left'},
-          {to: '/resources', label: 'Resources', position: 'left'},
+          {to: '/blog', label: 'Learn', position: 'left'},
+          {to: 'https://portal.azure.com/?feature.customportal=false&WT.mc_id=30daysofswa-61155-ninarasi#create/Microsoft.StaticApp', label: 'Create', position: 'left'},
+          {to: '/contribute', label: 'Contribute', position: 'left'},
+          {to: '/resources', label: 'Resources', position: 'right'},
          /* {to: '/roadmap', label: 'Roadmap', position: 'left'},*/
           {to: '/showcase', label: 'Showcase', position: 'right'},
-          {to: 'https://github.com/orgs/staticwebdev/discussions', label: 'Discussions', position: 'right'},
+          {to: 'https://github.com/orgs/staticwebdev/discussions', label: 'Discussion', position: 'right'},
           
           /*
           {
@@ -136,13 +138,40 @@ const config = {
 
       image: 'img/logo.png',
 
-      metadata: [{
-        name: 'twitter:card', 
-        content: 'Welcome to the Azure Static Web Apps Gallery of community-created projects! Explore the examples - or add your own!'
-      }],
+      metadata: [
+        {
+          name: 'twitter:url', 
+          content: 'https://aka.ms/30DaysOfSWA'
+        },
+        {
+          name: 'twitter:title', 
+          content: 'Learn Azure Static Web Apps in #30DaysOfSWA'
+        },
+        {
+          name: 'twitter:description', 
+          content: 'Learn @AzureStaticApps from Core Concepts to Best Practices in #30DaysOfSWA at https://aka.ms/30DaysOfSWA'
+        },
+        {
+          name: 'twitter:image', 
+          content: 'https://www.azurestaticwebapps.dev/assets/images/series-people-13a2856edd7022e82a252ed05dffbabc.png'
+        },
+        {
+          name: 'twitter:card', 
+          content: 'summary_large_image'
+        },
+        {
+          name: 'twitter:creator', 
+          content: '@nitya'
+        },
+        {
+          name: 'twitter:site', 
+          content: '@AzureStaticApps'
+        },
+
+      ],
 
       announcementBar: {
-        id: 'Add Your Project!',
+        id: 'Learn in 30 Days',
         content:
         /*
           '<b>Find #30DaysOfSWA useful? Give it a star on <a href="https://github.com/staticwebdev/30DaysOfSWA"><b>GitHub</b></a></b>',
