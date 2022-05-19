@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwww=self.webpackChunkwww||[]).push([[5953],{1745:function(e){e.exports=JSON.parse('{"permalink":"/30DaysOfSWA/blog/tags/astro","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

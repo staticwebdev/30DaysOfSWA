@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwww=self.webpackChunkwww||[]).push([[9725],{3892:function(e){e.exports=JSON.parse('{"permalink":"/30DaysOfSWA/blog/tags/dev-tools","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
