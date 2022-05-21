@@ -42,6 +42,15 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        gtag: {
+          trackingID: 'G-XQTX19ZF9V',
+          anonymizeIP: true,
+        },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+        },
       }),
     ],
   ],
@@ -191,14 +200,6 @@ const config = {
         min: 640, // min resized image's size. 
         steps: 2, // #images b/w min and max (inclusive)
         disableInDev: false,
-      },
-    ],
-    [
-      '@docusaurus/plugin-sitemap',
-      {
-        changefreq: 'weekly',
-        priority: 0.5,
-        ignorePatterns: ['/tags/**'],
       },
     ],
   ],
