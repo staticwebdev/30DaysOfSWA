@@ -36,7 +36,7 @@ const FeatureList = [
   {
     title: 'Developer Tools',
     Svg: require('@site/static/img/landing-devtools.svg').default,
-    link: "roadmap",
+    link: "blog/tags/dev-tools",
     description: (
       <>
         Explore tools and workflows that create the optimal developer experience.

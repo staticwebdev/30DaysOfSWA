@@ -8,7 +8,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 // Import roadmap
 import Image from '@theme/IdealImage';
-import roadmap from './../../static/img/series/week2-roadmap.png';
+import roadmap from './../../static/img/series/week3-roadmap.png';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -19,7 +19,7 @@ function HomepageHeader() {
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         */}
-        <h3> #30DaysOfSWA - It's Usage Examples Week! </h3>
+        <h3> #30DaysOfSWA - It's Dev Tools Week! </h3>
         <Link to="/blog/tags/usage-examples">
           <Image img={roadmap} className={styles.featureImg} />
         </Link>
