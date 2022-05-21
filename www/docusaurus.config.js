@@ -61,12 +61,11 @@ const config = {
         },
         items: [
           {to: '/blog', label: 'Learn', position: 'left'},
-          {to: 'https://portal.azure.com/?feature.customportal=false&WT.mc_id=30daysofswa-61155-ninarasi#create/Microsoft.StaticApp', label: 'Create', position: 'left'},
+          {to: 'https://portal.azure.com/?feature.customportal=false&WT.mc_id=30daysofswa-61155-ninarasi#create/Microsoft.StaticApp', label: 'Deploy', position: 'left'},
           {to: '/contribute', label: 'Contribute', position: 'left'},
+          {to: '/showcase', label: 'Showcase', position: 'left'},
           {to: '/resources', label: 'Resources', position: 'right'},
          /* {to: '/roadmap', label: 'Roadmap', position: 'left'},*/
-          {to: '/showcase', label: 'Showcase', position: 'right'},
-          {to: 'https://github.com/orgs/staticwebdev/discussions', label: 'Discussion', position: 'right'},
           
           /*
           {
@@ -129,7 +128,7 @@ const config = {
           },
           */
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Microsoft - Built by <a href="https://github.com/nitya"> @nitya </a> with ❤️ &nbsp; using Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Microsoft </a> - Built with <a href="https://docusaurus.io"> Docusaurus </a> - Deployed to <a href="https://aka.ms/swa"> Azure </a> - Created by <a href="https://github.com/nitya"> @nitya </a>`,
       },
       prism: {
         theme: lightCodeTheme,
@@ -176,7 +175,7 @@ const config = {
         /*
           '<b>Find #30DaysOfSWA useful? Give it a star on <a href="https://github.com/staticwebdev/30DaysOfSWA"><b>GitHub</b></a></b>',
         */
-          '<b>Joins us May 19, 2021 for the <a href="https://aka.ms/SWAanniversary"><b>#SWAanniversary</b> event!</a></b>',
+          '<b>Found this project helpful? Give us a star on <a href="https://aka.ms/30DaysOfSWA/github"><b>GitHub</b></a></b> 🙏🏽',
         backgroundColor: '#50E6FF',
         textColor: '#552F99',
         isCloseable: false,
