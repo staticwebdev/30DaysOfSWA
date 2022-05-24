@@ -26,7 +26,7 @@ This is a [Docusaurus-powered](https://docusaurus.io) site to host tutorials and
 | Add `hello.md` under `www/src/pages/` | Creates a standalone web page accessible at path `/hello`|
 | Add `hello.md` under `www/docs/` | Creates a tutorial page (with prev/next navigation and sidebar) accessible at path `/docs/hello`|
 | Add `hello.md` under `www/docs/basics/` | Creates a tutorial collection accessible at path `/docs/basics` with `/docs/basics/hello` as first step.|
-| Add `2021-01-17-hello.md` under `www/blog` | Creates a blog post timestamped `January 17, 2021` accessible under `/blog/hello`, with blog index at `blog/` |
+| Add `2022-01-17-hello.md` under `www/blog` | Creates a blog post timestamped `January 17, 2021` accessible under `/blog/hello`, with blog index at `blog/` |
 | Edit site  settings in `www/docusaurus.config.js` | Customize [various parameters](https://docusaurus.io/docs/configuration) for site metadata, deployment, themes, plugins and more. |
 | Edit docs sidebar settings in `www/sidebars.js` | Customize [sidebar configuration](https://docusaurus.io/docs/sidebar/items) or learn to use auto-generated versions more effectively. |
 | Update [styling and layout](https://docusaurus.io/docs/next/styling-layout) and validate for light & dark theme | Use [colorbox.io](https://colorbox.io/) and [guide](https://justtheskills.com/colorbox/) to define color palette. Create [style variables](https://docusaurus.io/docs/next/styling-layout#styling-your-site-with-infima) to update `custom.css` (based on  the [infima](https://infima.dev/) styling framework) |
