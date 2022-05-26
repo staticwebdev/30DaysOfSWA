@@ -78,11 +78,11 @@ So share your questions, comments and suggestions. Help us make this more journe
 |:---|:---|:---|:---|
 | 1. E2E Journeys with SWA <br/> `Natalia` | Best Practices & Personas? | _Try it_| May 23 |
 | 2. Cognitive Search with SWA <br/> `Dina Berry` | [Searchable Catalog](https://docs.microsoft.com/en-us/azure/search/tutorial-javascript-overview) | _Try it_ | May 24 |
-| 3. Custom Vision With SWA<br/> `Oliver Leplus`| Custom Vision Workshop | _Try it_| May 25 |
+| 3. Custom Vision With SWA<br/> `Aysegul Yonet`| Custom Vision Workshop | _Try it_| May 25 |
 | 4. KlipTok: A SWA Case Study <br/> `Jeff Fritz`| | _Try it_| May 26 |
 | 5. Bring Your Own Functions with SWA <br/> `Craig Shoemaker`| | _Try it_| May 27 |
 | 6. CosmosDB with SWA <br/> `David Rousset` | CosmosDB, Azure Comm. Services| _Try it_| May 28 |
-| 7. Tips & Tricks with SWA <br/> `Yohan` | 2 new tips | _Try it_| May 29 |
+| 7. Build full-stack React app with Mongoose and SWA <br/> `Christopher Harrison` | Full Stack App using SWA, React, Mongoose and CosmosDB: Template for Hacks! | _Try it_| May 29 |
 
 
 ---
