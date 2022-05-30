@@ -16,7 +16,7 @@ const FeatureList = [
   {
     title: 'Building Blocks',
     Svg: require('@site/static/img/landing-blocks.svg').default,
-    link: "blog/tags/core-concepts",
+    link: "/roadmap#core-concepts",
     description: (
       <>
         Learn core concepts behind Azure Static Web Apps. Setup your dev environment.
@@ -26,7 +26,7 @@ const FeatureList = [
   {
     title: 'Usage Examples',
     Svg: require('@site/static/img/landing-action.svg').default,
-    link: "blog/tags/usage-examples",
+    link: "/roadmap#usage-examples",
     description: (
       <>
         See Static Web Apps in action with front-end frameworks,  static site generators.
@@ -36,7 +36,7 @@ const FeatureList = [
   {
     title: 'Developer Tools',
     Svg: require('@site/static/img/landing-devtools.svg').default,
-    link: "blog/tags/dev-tools",
+    link: "/roadmap#developer-tools",
     description: (
       <>
         Explore tools and workflows that create the optimal developer experience.
@@ -46,7 +46,7 @@ const FeatureList = [
   {
     title: 'Best Practices',
     Svg: require('@site/static/img/landing-tips.svg').default,
-    link: "roadmap",
+    link: "/roadmap#best-practices",
     description: (
       <>
        Design better end-to-end user experiences with rich service integrations.
