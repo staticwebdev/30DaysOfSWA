@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwww=self.webpackChunkwww||[]).push([[4479],{5995:function(s){s.exports=JSON.parse('{"label":"mongoose","permalink":"/blog/tags/mongoose","allTagsPath":"/blog/tags","count":1}')}}]);
