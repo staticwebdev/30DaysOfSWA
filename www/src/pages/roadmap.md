@@ -36,7 +36,7 @@ _Welcome to the first week of your learning journey. Let's talk about some funda
  * [**Deploying SWA**](blog/deploying-swa)  _(Reshmi)_ - Deploy from GitLab, BitBucket, Azure DevOps. Using ARM Templates
 :::
 
-![Week 1 Roadmap](../../static/img/series/week1-roadmap.png)
+![Week 1 Roadmap](../../static/img/png/week1-roadmap.png)
 
 
 ---
@@ -55,7 +55,7 @@ _Welcome to Week 2. So you know what SWA is but what web frameworks and librarie
  * [Show & Tell - SWArm of Apps](blog/show-and-tell) 
 :::
 
-![Week 2 Roadmap](../../static/img/series/week2-roadmap.png)
+![Week 2 Roadmap](../../static/img/png/week2-roadmap.png)
 
 ---
 
@@ -73,7 +73,7 @@ _Welcome to Week 3 - let's talk about the developer experience in building and d
  * [Run & Debug - with VS Code](blog/devtools-vscode) - 
 :::
 
-![Week 3 Roadmap](../../static/img/series/week3-roadmap.png)
+![Week 3 Roadmap](../../static/img/png/week3-roadmap.png)
 
 ---
 
@@ -91,7 +91,7 @@ _We made it to the final week!! We've learned core concepts, seen examples of SW
  * [Full Stack - and SWA](https://www.azurestaticwebapps.dev/blog/practices-full-stack-react) - React/Redux front-end, Functions back-end and CosmosDB database (using Mongoose)
 :::
 
-![Week 4 Roadmap](../../static/img/series/week4-roadmap.png)
+![Week 4 Roadmap](../../static/img/png/week4-roadmap.png)
 
 
 ---

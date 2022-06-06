@@ -8,7 +8,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 // Import roadmap
 import Image from '@theme/IdealImage';
-import roadmap from './../../static/img/series/week4-roadmap.png';
+import roadmap from './../../static/img/png/week4-roadmap.png';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();

@@ -13,4 +13,4 @@ Here's a sneak peek at what that will look like. Stay tuned for more details.
 
 ---
 
-[![](../../static/img/swa-showcase.png)](https://microsoft.github.io/static-web-apps-gallery-code-samples/)
+[![](../../static/img/png/swa-showcase.png)](https://microsoft.github.io/static-web-apps-gallery-code-samples/)
