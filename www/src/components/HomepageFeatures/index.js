@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: '#30DaysOfSWA',
-    Svg: require('@site/static/img/logo.svg').default,
+    Svg: require('@site/static/img/svg/logo.svg').default,
     link: "blog",
     description: (
       <>
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Building Blocks',
-    Svg: require('@site/static/img/landing-blocks.svg').default,
+    Svg: require('@site/static/img/svg/landing-blocks.svg').default,
     link: "/roadmap#core-concepts",
     description: (
       <>
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Usage Examples',
-    Svg: require('@site/static/img/landing-action.svg').default,
+    Svg: require('@site/static/img/svg/landing-action.svg').default,
     link: "/roadmap#usage-examples",
     description: (
       <>
@@ -35,7 +35,7 @@ const FeatureList = [
   },
   {
     title: 'Developer Tools',
-    Svg: require('@site/static/img/landing-devtools.svg').default,
+    Svg: require('@site/static/img/svg/landing-devtools.svg').default,
     link: "/roadmap#developer-tools",
     description: (
       <>
@@ -45,7 +45,7 @@ const FeatureList = [
   },
   {
     title: 'Best Practices',
-    Svg: require('@site/static/img/landing-tips.svg').default,
+    Svg: require('@site/static/img/svg/landing-tips.svg').default,
     link: "/roadmap#best-practices",
     description: (
       <>
@@ -55,7 +55,7 @@ const FeatureList = [
   },
   {
     title: 'SWA Showcase',
-    Svg: require('@site/static/img/landing-showcase.svg').default,
+    Svg: require('@site/static/img/svg/landing-showcase.svg').default,
     link: "https://microsoft.github.io/static-web-apps-gallery-code-samples/",
     description: (
       <>
@@ -65,7 +65,7 @@ const FeatureList = [
   },
   {
     title: 'SWA Anniversary',
-    Svg: require('@site/static/img/landing-anniversary.svg').default,
+    Svg: require('@site/static/img/svg/landing-anniversary.svg').default,
     link: "https://aka.ms/swaanniversary",
     description: (
       <>
