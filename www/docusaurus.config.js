@@ -66,7 +66,7 @@ const config = {
         title: '#30DaysOfSWA',
         logo: {
           alt: '#30DaysOfSWA Logo',
-          src: 'img/logo.svg',
+          src: 'img/svg/logo.svg',
         },
         items: [
           {to: '/blog', label: 'Learn', position: 'left'},
