@@ -34,10 +34,9 @@ const config = {
         */
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/staticwebdev/30DaysOfSWA/tree/main/www',
-            blogSidebarCount: 'ALL',
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: 'Most Recent Posts',
+          postsPerPage: 1,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -71,9 +70,9 @@ const config = {
         items: [
           {to: '/blog', label: 'Learn', position: 'left'},
           {to: 'https://portal.azure.com/?feature.customportal=false&WT.mc_id=30daysofswa-61155-ninarasi#create/Microsoft.StaticApp', label: 'Deploy', position: 'left'},
-          {to: '/contribute', label: 'Contribute', position: 'left'},
-          {to: '/showcase', label: 'Showcase', position: 'left'},
-          {to: '/resources', label: 'Resources', position: 'right'},
+          {to: '/resources', label: 'Resources', position: 'left'},
+         /* {to: '/contribute', label: 'Contribute', position: 'left'}, */
+          {to: '/showcase', label: 'Showcase', position: 'right'},
          /* {to: '/roadmap', label: 'Roadmap', position: 'left'},*/
           
           /*
