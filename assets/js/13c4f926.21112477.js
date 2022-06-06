@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwww=self.webpackChunkwww||[]).push([[7283],{1237:function(e){e.exports=JSON.parse('{"label":"CognitiveServices","permalink":"/blog/tags/cognitive-services","allTagsPath":"/blog/tags","count":1}')}}]);

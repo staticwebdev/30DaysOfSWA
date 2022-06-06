@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwww=self.webpackChunkwww||[]).push([[8485],{49496:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/30-days/page/13","page":13,"postsPerPage":1,"totalPages":31,"totalCount":31,"previousPage":"/blog/tags/30-days/page/12","nextPage":"/blog/tags/30-days/page/14","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

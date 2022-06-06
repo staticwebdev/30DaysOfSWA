@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwww=self.webpackChunkwww||[]).push([[188],{2902:function(a){a.exports=JSON.parse('{"label":"astro","permalink":"/blog/tags/astro","allTagsPath":"/blog/tags","count":1}')}}]);

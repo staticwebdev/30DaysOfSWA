@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwww=self.webpackChunkwww||[]).push([[9146],{29509:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/swa/page/18","page":18,"postsPerPage":1,"totalPages":31,"totalCount":31,"previousPage":"/blog/tags/swa/page/17","nextPage":"/blog/tags/swa/page/19","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

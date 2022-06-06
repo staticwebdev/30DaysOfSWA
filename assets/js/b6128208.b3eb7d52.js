@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwww=self.webpackChunkwww||[]).push([[5084],{91941:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/best-practices/page/5","page":5,"postsPerPage":1,"totalPages":7,"totalCount":7,"previousPage":"/blog/tags/best-practices/page/4","nextPage":"/blog/tags/best-practices/page/6","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

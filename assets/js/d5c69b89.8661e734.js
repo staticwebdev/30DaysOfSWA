@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwww=self.webpackChunkwww||[]).push([[754],{6908:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/core-concepts/page/5","page":5,"postsPerPage":1,"totalPages":7,"totalCount":7,"previousPage":"/blog/tags/core-concepts/page/4","nextPage":"/blog/tags/core-concepts/page/6","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
