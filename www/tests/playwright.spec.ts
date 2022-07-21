@@ -1,6 +1,7 @@
 import { test, expect } from '@playwright/test';
 
-test('basic test', async ({ page }) => {
+//checks to see if at least 1 of the h3s contains the text #30DaysOfSWA
+test('#30DaysOfSWA test', async ({ page }) => {
   await page.goto('/');
   await page.waitForSelector('h3');
   const elements = await page.$$("h3");
@@ -9,9 +10,7 @@ test('basic test', async ({ page }) => {
     const text = await e.innerText();
     if(text== '#30DaysOfSWA'){
         hasText = true;
-        console.log("found it")
     }
   }))
-  console.log("done");
   await expect(hasText).toEqual(true);
 })
