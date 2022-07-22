@@ -1,5 +1,5 @@
 # Runs on push and pull requests
-name: Playwright tests
+name: Playwright tests for push and pull requests
 
 # Controls when the workflow will run
 on:

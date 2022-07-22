@@ -1,5 +1,5 @@
 # Runs test on changes to main and nightly
-name: Playwright tests
+name: Playwright tests for dashboard
 
 # Controls when the workflow will run
 on:
