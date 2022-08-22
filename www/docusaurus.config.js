@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '#30DaysOfSWA',
+  title: 'Azure Static Web Apps',
   tagline: 'Bring Your App Ideas to Life with Static Web Apps',
   url: 'https://www.azurestaticwebapps.dev',
   baseUrl: '/', // NOTE: Use '/30DaysOfSWA/' for GH Pages. '/' otherwise
@@ -62,17 +62,19 @@ const config = {
         maxHeadingLevel: 3,
       },
       navbar: {
-        title: '#30DaysOfSWA',
+        title: 'Static Web Apps!',
         logo: {
           alt: '#30DaysOfSWA Logo',
           src: 'img/svg/logo.svg',
         },
         items: [
-          {to: '/blog', label: 'Learn', position: 'left'},
-          {to: 'https://portal.azure.com/?feature.customportal=false&WT.mc_id=30daysofswa-61155-ninarasi#create/Microsoft.StaticApp', label: 'Deploy', position: 'left'},
-          {to: '/resources', label: 'Resources', position: 'left'},
+          {to: '/roadmap', label: 'Roadmap', position: 'left'},
+          {to: '/thismonth', label: 'Roundup', position: 'left'},
+          {to: '/showcase', label: 'Showcase', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'left'},
          /* {to: '/contribute', label: 'Contribute', position: 'left'}, */
-          {to: '/showcase', label: 'Showcase', position: 'right'},
+          {to: '/resources', label: 'Docs', position: 'right'},
+          {to: 'https://portal.azure.com/?feature.customportal=false&WT.mc_id=30daysofswa-61155-ninarasi#create/Microsoft.StaticApp', label: 'Deploy', position: 'right'},
          /* {to: '/roadmap', label: 'Roadmap', position: 'left'},*/
           
           /*

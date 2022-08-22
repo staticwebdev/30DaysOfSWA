@@ -6,13 +6,14 @@ const FeatureList = [
   {
     title: '#30DaysOfSWA',
     Svg: require('@site/static/img/svg/logo.svg').default,
-    link: "blog",
+    link: "roadmap",
     description: (
       <>
         Jumpstart your learning with the #30DaysofSWA blog series.
       </>
     ),
   },
+  /*
   {
     title: 'Building Blocks',
     Svg: require('@site/static/img/svg/landing-blocks.svg').default,
@@ -54,22 +55,33 @@ const FeatureList = [
     ),
   },
   {
-    title: 'SWA Showcase',
-    Svg: require('@site/static/img/svg/landing-showcase.svg').default,
-    link: "https://microsoft.github.io/static-web-apps-gallery-code-samples/",
-    description: (
-      <>
-        Browse community-contributed examples for inspiration. Add your project!
-      </>
-    ),
-  },
-  {
     title: 'SWA Anniversary',
     Svg: require('@site/static/img/svg/landing-anniversary.svg').default,
     link: "https://aka.ms/swaanniversary",
     description: (
       <>
         Join us May 19 for our SWA Anniversary. Watch it live or catch the replay.
+      </>
+    ),
+  },
+  */
+  {
+    title: 'This Month In SWA',
+    Svg: require('@site/static/img/svg/landing-anniversary.svg').default,
+    link: "thismonth",
+    description: (
+      <>
+        Subscribe to our blog for a monthly roundup of SWA news and content
+      </>
+    ),
+  },
+  {
+    title: 'SWA Showcase',
+    Svg: require('@site/static/img/svg/landing-showcase.svg').default,
+    link: "showcase",
+    description: (
+      <>
+        Browse community-contributed examples for inspiration. Add your project!
       </>
     ),
   },
