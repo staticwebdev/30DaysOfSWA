@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: '#30DaysOfSWA',
-    Svg: require('@site/static/img/svg/logo.svg').default,
+    Svg: require('@site/static/img/svg/logo-30days.svg').default,
     link: "roadmap",
     description: (
       <>
