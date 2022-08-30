@@ -40,8 +40,9 @@ The roundup will contain news and content in the following categories.
 
 **The next roundup will be published on Sep 28, 2022**.
 
-Have an SWA-related article, open-source project, or event, you want us to include? Submit the details [**using this custom issue**](https://github.com/staticwebdev/30DaysOfSWA/issues/new?assignees=&labels=ThisMonthIn+-+Community&template=---this-month-in-swa--community-submission.md&title=This+Month+In%3A+Community) as soon as possible.
+Have an SWA-related article, open-source project, or event, you want us to include? <br /> Are you a student learning SWA, and created your first site or created content of what you learned? _We'd love to hear and see all your SWA creations!_</br>
 
+ Submit the details [**using this custom issue**](https://github.com/staticwebdev/30DaysOfSWA/issues/new?assignees=&labels=ThisMonthIn+-+Community&template=---this-month-in-swa--community-submission.md&title=This+Month+In%3A+Community) as soon as possible. </br></br>
 
 ---
 
@@ -56,6 +57,7 @@ What's new in Azure Static Web Apps? Here are some of the recent announcements f
 ## Dev Resources
 
 * **Aug 3** | `dev.to` <br/> [**Deploy Azure Static Web Apps using Python**](https://dev.to/azure/deploy-azure-static-web-apps-using-python-1hn7) by _Jay Miller_. Are you a Python developer interested in exploring Azure Static Web Apps? In this post, Jay walks you through configuring and deploying your first Python SWA from VS Code.
+* **Jul 22** | `techcommunity.com` <br /> [**Host your website on Azure Static Web Apps for free**](https://techcommunity.microsoft.com/t5/educator-developer-blog/host-your-website-on-azure-static-web-apps-for-free/ba-p/3579709?WT.mc_id=academic-74011-sagibbon) by _Julia Muiruri_.  Students looking to get started with Azure, create your Azure for Students account and deploy your first website within minutes!
 * **Jul 20** | `dev.to` <br/> [**Taking a SWA DevOps Pipeline to the next level**](https://dev.to/azure/taking-a-swa-devops-pipeline-to-the-next-level-5co3) by _Aaron Powell_. We know SWA works seamlessly with GitHub Actions to automate the default build-deploy workflow. What if you need a more complex custom CI/CD pipeline? This article walks you through one such example. 
 
 And don't forget to check out our #30DaysOfSWA post on [Multi-Stage Deploy with ADO](https://www.azurestaticwebapps.dev/blog/devtools-ado) for a more complex pipelines that add automated testing and a manual approval step.
@@ -66,6 +68,8 @@ And don't forget to check out our #30DaysOfSWA post on [Multi-Stage Deploy with 
 _This section highlights learning content and code samples authored by the community. Sources include both direct submissions and content published in sites like Tech Community and dev.to_.
 :::
 
+* **Jul 19** | `techcommunity.com` <br /> [**Azure Adventure – A RPG game to test student’s Azure practical skills**](https://techcommunity.microsoft.com/t5/educator-developer-blog/azure-adventure-a-rpg-game-to-test-student-s-azure-practical/ba-p/3576331?WT.mc_id=academic-74011-sagibbon) by _Wong Cyrus, Dept Information Technology of the Hong Kong Institute of Vocational Education_.  Azure Adventure is an open source HTML5 RPG game that builds on top of the latest version of Azure Automatic Grading Engine, utilizing SWA.
+
 
 ## Upcoming Events
 
@@ -73,7 +77,8 @@ September is a busy month for many reasons. Here are a few events you might want
 
 * **Sep 1-30, 2022** | [Serverless September](https://aka.ms/serverless-september) - explore Serverless on Azure
 * **Oct 7, 2022** | [Microsoft Student Summit](https://developer.microsoft.com/en-us/reactor/overview/student-summit-2022/) - virtual event held globally
-* **Oct 12-14, 2022** | [Microsoft Ignite](https://ignite.microsoft.com/en-US/home) - in-person (Seattle) and online
+* **Oct 12-14, 2022** | [Microsoft Ignite](https://ignite.microsoft.com/en-US/home) - in-person (Seattle) and online 
+</br></br>
 
 ---
 
