@@ -8,7 +8,7 @@ Welcome to `This Month In SWA` - a new project we are kicking off in August 2022
 
 :::info CALL FOR CONTRIBUTIONS: AUGUST 2022
 
-The next roundup will be published on August 31, 2022. **Have you built something recently you want to share**? Use the [Custom Issues](https://github.com/staticwebdev/30DaysOfSWA/issues/new) to submit your news, articles, or events, for consideration this month, or in future issues.
+The next roundup will be published on August 31, 2022. **Have you built something recently you want to share**? Use the custom [This Month In SWA](https://github.com/staticwebdev/30DaysOfSWA/issues/new/choose) issue to submit your news, articles, or events, for consideration this month, or in future issues.
 :::
 
 ![](../../static/img/png/this-month.png)
