@@ -6,12 +6,17 @@ title: This Month In SWA
 
 Welcome to `This Month In SWA` - a new project we are kicking off in August 2022 to _roundup_ (collect, curate, and amplify) the latest activities in the world of [Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/overview). 
 
-:::info CALL FOR CONTRIBUTIONS: AUGUST 2022
+:::info CALL FOR CONTRIBUTIONS: OCTOBER 2022
 
-The next roundup will be published on August 31, 2022. **Have you built something recently you want to share**? Use the custom [This Month In SWA](https://github.com/staticwebdev/30DaysOfSWA/issues/new/choose) issue to submit your news, articles, or events, for consideration this month, or in future issues.
+**Have you built something recently you want to share**? Use the custom [This Month In SWA](https://github.com/staticwebdev/30DaysOfSWA/issues/new/choose) issue to submit your news, articles, or events, for consideration this month, or in future issues.
 :::
 
-![](../../static/img/png/this-month.png)
+* Last Roundup Published: **Aug 31, 2022**
+* Next Roundup Ready For: **September 28, 2022**. 
+* Contributions Needed For: **October 26, 2022** . 
+
+![](../../static/img/png/roundup/aug.png)
+
 ---
 
 ## Why This Roundup?
@@ -30,10 +35,19 @@ So we thought - why not _round up_ all the SWA news and activities each month, a
 
 ## Contribute Content
 
-Watch this space for guidelines on how you can submit your own content for consideration, for an upcoming roundup.
+Want to contribute content to our roundups? 
+
+ * Just [submit this custom issue](https://github.com/staticwebdev/30DaysOfSWA/issues/new?assignees=&labels=ThisMonthIn+-+Community&template=---this-month-in-swa--community-submission.md&title=This+Month+In%3A+Community) with the details.
+ * Feel free to share the issue with others for upvotes
+ * We review submissions 1 week prior to publication
+ * Accepted submissions will be tagged with link to post (and issue will be closed)
+
+
 
 ---
 
 ## View Past Editions
 
 We'll keep this section updated with links to the monthly roundup posts, once they've been published.
+
+ * **Issue #01**: [August 31, 2022](https://www.azurestaticwebapps.dev/blog/roundup-2022-aug)
