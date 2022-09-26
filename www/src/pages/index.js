@@ -8,7 +8,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 // Import roadmap
 import Image from '@theme/IdealImage';
-import roadmap from './../../static/img/png/week1-roadmap.png';
+import bannerImg from './../../static/img/png/roundup/aug.png';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -19,9 +19,9 @@ function HomepageHeader() {
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         */}
-        <h3> #30DaysOfSWA - Jumpstart Your Learning! </h3>
-        <Link to="roadmap">
-          <Image img={roadmap} className={styles.featureImg} />
+        <h3> #ThisMonthInSWA - August 2022! </h3>
+        <Link to="blog/roundup-2022-aug">
+          <Image img={bannerImg} className={styles.featureImg} />
         </Link>
       </div>
     </header>
