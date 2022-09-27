@@ -4,18 +4,19 @@ title: This Month In SWA
 
 ## This Month In SWA
 
-Welcome to `This Month In SWA` - a new project we are kicking off in August 2022 to _roundup_ (collect, curate, and amplify) the latest activities in the world of [Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/overview). 
+Welcome to `This Month In SWA` - a monthly roundup of [Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/overview) news and updates from the Product Team, Cloud & Student Advocacy - and from you, our amazing Developer Community.
 
-:::info CALL FOR CONTRIBUTIONS: OCTOBER 2022
+[
+![](../../static/img/png/roundup/aug.png)](blog/roundup-2022-oct)
+
+
+## Call For Contributions
 
 **Have you built something recently you want to share**? Use the custom [This Month In SWA](https://github.com/staticwebdev/30DaysOfSWA/issues/new/choose) issue to submit your news, articles, or events, for consideration this month, or in future issues.
-:::
 
 * Last Roundup Published: **Aug 31, 2022**
 * Next Roundup Ready For: **September 28, 2022**. 
 * Contributions Needed For: **October 26, 2022** . 
-
-![](../../static/img/png/roundup/aug.png)
 
 ---
 
