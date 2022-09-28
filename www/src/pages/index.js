@@ -8,7 +8,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 // Import roadmap
 import Image from '@theme/IdealImage';
-import bannerImg from './../../static/img/png/roundup/aug.png';
+import bannerImg from './../../static/img/png/roundup/sep.png';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
