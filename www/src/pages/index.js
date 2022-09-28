@@ -23,6 +23,7 @@ function HomepageHeader() {
         <Link to="blog/roundup-2022-sep">
           <Image img={bannerImg} className={styles.featureImg} />
         </Link>
+        <h5>Click the image to read the latest issue!</h5>
       </div>
     </header>
   );
@@ -41,7 +42,7 @@ export default function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Welcome to the Azure Static Web Apps community site.">
       <main>
         <HomepageHeader />
         <HomepageFeatures />
