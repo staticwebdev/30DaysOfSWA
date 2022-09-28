@@ -10,13 +10,23 @@ Welcome to `This Month In SWA` - a monthly roundup of [Azure Static Web Apps](ht
 ![](../../static/img/png/roundup/sep.png)](/blog/roundup-2022-sep)
 
 
+---
+
+## View Past Editions
+
+We'll keep this section updated with links to the monthly roundup posts, once they've been published.
+
+ * **Issue #01**: [August 31, 2022](https://www.azurestaticwebapps.dev/blog/roundup-2022-aug)
+ * **Issue #02**: [September 27, 2022](https://www.azurestaticwebapps.dev/blog/roundup-2022-sep)
+
+---
+
 ## Call For Contributions
 
-**Have you built something recently you want to share**? <br/>Use the custom [This Month In SWA](https://github.com/staticwebdev/30DaysOfSWA/issues/new/choose) issue to submit your news, articles, or events, for consideration this month, or in future issues.
+**Have you built something recently you want to share**? <br/>Use  [the custom issue](https://github.com/staticwebdev/30DaysOfSWA/issues/new/choose) to submit your news, articles, or events, for consideration this month, or in future issues.
 
-* Last Roundup Published: **Aug 31, 2022**
-* Next Roundup Ready For: **September 28, 2022**. 
-* Contributions Needed For: **October 26, 2022** . 
+* Next Publication Date: **October 26, 2022** 
+* Contribution Deadline: **October 23, 2022**
 
 ---
 
@@ -34,22 +44,13 @@ So we thought - why not _round up_ all the SWA news and activities each month, a
 
 ---
 
-## Contribute Content
+## How to Contribute?
 
 Want to contribute content to our roundups? 
 
- * Just [submit this custom issue](https://github.com/staticwebdev/30DaysOfSWA/issues/new?assignees=&labels=ThisMonthIn+-+Community&template=---this-month-in-swa--community-submission.md&title=This+Month+In%3A+Community) with the details.
+ * Just [submit this custom issue](https://github.com/staticwebdev/30DaysOfSWA/issues/new?assignees=&labels=ThisMonthIn+-+Community&template=---this-month-in-swa--community-submission.md&title=This+Month+In%3A+Community) with a link to your event, code project or content.
  * Feel free to share the issue with others for upvotes
- * We review submissions 1 week prior to publication
+ * We review submissions the week prior to publication
  * Accepted submissions will be tagged with link to post (and issue will be closed)
 
 
-
----
-
-## View Past Editions
-
-We'll keep this section updated with links to the monthly roundup posts, once they've been published.
-
- * **Issue #01**: [August 31, 2022](https://www.azurestaticwebapps.dev/blog/roundup-2022-aug)
- * **Issue #02**: [September 27, 2022](https://www.azurestaticwebapps.dev/blog/roundup-2022-sep)
