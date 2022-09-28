@@ -19,8 +19,8 @@ function HomepageHeader() {
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         */}
-        <h3> #ThisMonthInSWA - August 2022! </h3>
-        <Link to="blog/roundup-2022-aug">
+        <h3> #ThisMonthInSWA - Sep 2022! </h3>
+        <Link to="blog/roundup-2022-sep">
           <Image img={bannerImg} className={styles.featureImg} />
         </Link>
       </div>
