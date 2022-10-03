@@ -145,7 +145,7 @@ const config = {
         darkTheme: darkCodeTheme,
       },
 
-      image: 'img/logo.png',
+      image: 'https://www.azurestaticwebapps.dev/img/png/roundup/sep.png',
 
       metadata: [
         {
