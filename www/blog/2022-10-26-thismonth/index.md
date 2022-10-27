@@ -9,7 +9,7 @@ draft: false
 <head>
   <meta name="twitter:url" content="https://www.azurestaticwebapps.dev/blog/roundup-2022-oct" />
   <meta name="twitter:title" content="This Month in Azure Static Web Apps: Oct 2022" />
-  <meta name="twitter:description" content="A monthly roundup of news, articles, events and more - on Azure Static Web Apps" />
+  <meta name="twitter:description" content="This October in @AzureStaticApps - we cover hybrid rendering with @nextjs, universal rendering with @nuxt_js and put the spotlight on #MicrosoftStudentSummit" />
   <meta name="twitter:image" content="https://www.azurestaticwebapps.dev/img/png/roundup/oct.png" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:creator" content="@nitya" />
@@ -24,7 +24,7 @@ It's here!! Our October roundup of **This Month in SWA** 🎉
 
 We publish a roundup of Azure Static Web Apps product news, announcements and content updates **on the last Wednesday of each month**. Catch up on all the updates in one friendly post - and don't forget to contribute _your_ updates for inclusion in the next issue!
 
- * Want to make sure you don't miss it? [**Subscribe to the feed**](/blog/rss.xml).
+ * Want to make sure you don't miss it? <a href="/blog/rss.xml" target="_blank">**Subscribe to the feed**</a>.
  * Want to contribute items for roundup? [**Submit this custom issue**](https://github.com/staticwebdev/30DaysOfSWA/issues/new?assignees=&labels=ThisMonthIn+-+Community&template=---this-month-in-swa--community-submission.md&title=This+Month+In%3A+Community).
  * Want to catch up on past posts? [**Browse past editions.**](/thismonth#view-past-editions)
 

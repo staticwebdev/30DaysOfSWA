@@ -22,7 +22,7 @@ It's here!! Our September roundup of **This Month in SWA** 🎉
  
 Each month, on the last Wednesday, we'll publish a roundup of Azure Static Web Apps product news, events, and content updates on this blog. Over time, we hope to make it your one-stop destination to catch up on all the exciting things happening in the SWA ecosystem, in one friendly post.
 
- * Want to make sure you don't miss it? [**Subscribe to the feed**](/blog/rss.xml).
+ * Want to make sure you don't miss it? <a href="/blog/rss.xml" target="_blank">**Subscribe to the feed**</a>.
  * Want to contribute items for roundup? [**Submit this custom issue**](https://github.com/staticwebdev/30DaysOfSWA/issues/new?assignees=&labels=ThisMonthIn+-+Community&template=---this-month-in-swa--community-submission.md&title=This+Month+In%3A+Community).
  * Want to catch up on past posts? [**Browse past editions.**](/thismonth#view-past-editions)
 
