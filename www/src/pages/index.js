@@ -20,7 +20,7 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         */}
         <h3> #ThisMonthInSWA - Jan 2023! </h3>
-        <Link to="blog/roundup-2023-jan">
+        <Link to="blog/roundup-2022-nov">
           <Image img={bannerImg} className={styles.featureImg} />
         </Link>
         <h5>Click the image to read the latest issue!</h5>
