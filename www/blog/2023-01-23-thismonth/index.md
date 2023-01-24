@@ -9,7 +9,7 @@ draft: true
 <head>
   <meta name="twitter:url" content="https://www.azurestaticwebapps.dev/blog/roundup-2023-jan" />
   <meta name="twitter:title" content="This Month in Azure Static Web Apps: Jan 2023" />
-  <meta name="twitter:description" content="This January in @AzureStaticApps - we cover hybrid rendering with @nextjs, universal rendering with @nuxt_js and put the spotlight on #MicrosoftStudentSummit" />
+  <meta name="twitter:description" content="This January in @AzureStaticApps - we cover Azure Static Web Apps Diagnostics, authentication, deploying from Codespaces and SWA CLI" />
   <meta name="twitter:image" content="https://www.azurestaticwebapps.dev/img/png/roundup/jan.png" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:creator" content="@saragibby" />
@@ -40,7 +40,7 @@ We publish a roundup of Azure Static Web Apps product news, announcements and co
 
 _This section covers recent news or announcements from the product team. Read on to learn the latest news from the world of Azure Static Web Apps!_ 
 
-* **Dec 14** | [Generally available: Static Web Apps Diagnostics](https://azure.microsoft.com/en-us/updates/generally-available-static-web-apps-diagnostics/) Azure Static Web Apps Diagnostics is an intelligent tool to help you troubleshoot your static web app directly from the Azure Portal. When issues arise, Static Web Apps diagnostics will help you diagnose what went wrong and will show you how to resolve the issues. [**Get Started**](https://learn.microsoft.com/en-us/azure/static-web-apps/diagnostics-overview) with your Static Web App diagnositics. 
+* **Dec 14** | [Generally available: Static Web Apps Diagnostics](https://azure.microsoft.com/en-us/updates/generally-available-static-web-apps-diagnostics/?WT.mc_id=academic-86055-sagibbon) Azure Static Web Apps Diagnostics is an intelligent tool to help you troubleshoot your static web app directly from the Azure Portal. When issues arise, Static Web Apps diagnostics will help you diagnose what went wrong and will show you how to resolve the issues. [**Get Started**](https://learn.microsoft.com/en-us/azure/static-web-apps/diagnostics-overview/?WT.mc_id=academic-86055-sagibbon) with your Static Web App diagnositics. 
 
 ---
 
@@ -48,9 +48,9 @@ _This section covers recent news or announcements from the product team. Read on
 
 _This section covers content, events and code samples from Microsoft authors. Check them out for relevant learning resources and best practices._
 
-* **Dec 6** | `learn.microsoft.com` -  [Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps](https://learn.microsoft.com/en-us/shows/learn-live/modern-web-development-net6-ep04-publish-blazor-webassembly-net-api-azure-static-web-apps) by _Jon Galloway and James Montemagno_ Follow along with this Learn Live seesions as Jon and James walk you through how to automatically deploy and update a Blazor web application and its API from a GitHub repository. [**Get started**](https://learn.microsoft.com/en-us/training/modules/publish-app-service-static-web-app-api-dotnet/) with the accompanying Learn Module.
+* **Dec 6** | `learn.microsoft.com` -  [Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps](https://learn.microsoft.com/en-us/shows/learn-live/modern-web-development-net6-ep04-publish-blazor-webassembly-net-api-azure-static-web-apps/?WT.mc_id=academic-86055-sagibbon) by _Jon Galloway and James Montemagno_ Follow along with this Learn Live seesions as Jon and James walk you through how to automatically deploy and update a Blazor web application and its API from a GitHub repository. [**Get started**](https://learn.microsoft.com/en-us/training/modules/publish-app-service-static-web-app-api-dotnet/?WT.mc_id=academic-86055-sagibbon) with the accompanying Learn Module.
 * **Dec 13** | `github.com` -  [JavaScript Portfolio Site with GitHub Codespaces](https://github.com/education/codespaces-project-template-js) by _Sara Gibbons_ Build and deploy your own portfolio site using Codespaces and Azure Static Web Apps. All from within your browser! [**Watch the release discussion**](https://www.youtube.com/watch?v=5c_X-GC7Eds) to learn more.
-* **Jan 10** | `learn.microsoft.com` - [Configure front-end frameworks and libraries with Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/front-end-frameworks) The list of frameworks that work with Azure Static Web Apps continues to grow! Find a new framework to explore using the provided configuration to deploy your app. [**Learn more**](https://learn.microsoft.com/en-us/azure/static-web-apps/build-configuration?tabs=github-actions) on all Static Web App build configuration options to get started. 
+* **Jan 10** | `learn.microsoft.com` - [Configure front-end frameworks and libraries with Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/front-end-frameworks/?WT.mc_id=academic-86055-sagibbon) The list of frameworks that work with Azure Static Web Apps continues to grow! Find a new framework to explore using the provided configuration to deploy your app. [**Learn more**](https://learn.microsoft.com/en-us/azure/static-web-apps/build-configuration?tabs=github-actions/?WT.mc_id=academic-86055-sagibbon) on all Static Web App build configuration options to get started. 
 
 ---
 

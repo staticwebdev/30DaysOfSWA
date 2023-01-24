@@ -7,7 +7,7 @@ title: This Month In SWA
 Welcome to `This Month In SWA` - a monthly roundup of [Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/overview) news and updates from the Product Team, Cloud & Student Advocacy - and from you, our amazing Developer Community. 
 
 [**Click here to read the latest issue**
-![](../../static/img/png/roundup/jan.png)](/blog/roundup-2023-jan)
+![](../../static/img/png/roundup/nov.png)](/blog/roundup-2022-nov)
 
 
 ---
