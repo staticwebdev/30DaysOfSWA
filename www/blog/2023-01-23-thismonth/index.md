@@ -82,7 +82,7 @@ _Each month, we hope to turn the spotlight on one key resource or person that is
 
 :::info 🌟 SPOTLIGHT ON:  SWA CLI
 
-[Static Web Apps CLI](https://azure.github.io/static-web-apps-cli/) is an all-in-one local development tool For Azure Static Web Apps. Using SWA CLI you can deploy your apps right from your local enviroment to the Azure cloud without a CI/CD workflow, and instead a simple CLI command. 
+[**Static Web Apps CLI**](https://azure.github.io/static-web-apps-cli/) is an all-in-one local development tool For Azure Static Web Apps. Using SWA CLI you can deploy your apps right from your local enviroment to the Azure cloud without a CI/CD workflow, and instead a simple CLI command. 
 
 From the SWA CLI you can login to Azure subscriptions, initialize an Azure Static Web Apps project, set build configurations, and deploy your app.
 
