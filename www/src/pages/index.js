@@ -8,7 +8,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 // Import roadmap
 import Image from '@theme/IdealImage';
-import bannerImg from './../../static/img/png/roundup/nov.png';
+import bannerImg from './../../static/img/png/roundup/jan.png';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -19,7 +19,7 @@ function HomepageHeader() {
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         */}
-        <h3> #ThisMonthInSWA - Nov 2022! </h3>
+        <h3> #ThisMonthInSWA - Jan 2023! </h3>
         <Link to="blog/roundup-2022-nov">
           <Image img={bannerImg} className={styles.featureImg} />
         </Link>
