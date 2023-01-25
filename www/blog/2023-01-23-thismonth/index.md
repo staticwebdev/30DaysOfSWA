@@ -3,7 +3,7 @@ slug: roundup-2023-jan
 title: "SWA Roundup: Jan 2023"
 authors: [reshmi, nitya, sara]
 tags: [swa, thismonth, jan]
-draft: true
+draft: false
 ---
 
 <head>
