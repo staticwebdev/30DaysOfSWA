@@ -2,24 +2,51 @@
 title: This Month In SWA
 ---
 
-## This Month In SWA
 
-Welcome to `This Month In SWA` - a monthly roundup of [Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/overview) news and updates from the Product Team, Cloud & Student Advocacy - and from you, our amazing Developer Community. 
+## Monthly Standup 🆕
 
-[**Click here to read the latest issue**
-![](../../static/img/png/roundup/jan.png)](/blog/roundup-2023-jan)
+:::info JOIN THE MONTHLY COMMUNITY STANDUP!
+
+Did you know the Azure Static Web Apps Team now hosts a monthly standup for the community on the **last Thursday** of each month? Join members of the Azure Static Web Apps team and their special guests as they cover key announcements and topics **LIVE!** and take your questions on chat! 
+
+🔗 [**https://aka.ms/swa/community/standups**](https://aka.ms/swa/community/standups)
+:::
+
+**Watch the replay from the last standup**
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/7hTQJs9Ku5Y?list=PLI7iePan8aH7Yo8vo288dAULgjyCCCcEJ&t=166" title="Welcome to Azure Static Web Apps Community Standups" frameborder="0" allowfullscreen></iframe>
 
 
 ---
 
-## View Past Editions
+## Monthly Roundup
+
+Welcome to `This Month In SWA` - a monthly roundup of [Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/overview) news and updates from the Product Team, Cloud & Student Advocacy - and from you, our amazing Developer Community.  
+
+[**Click here to read the latest issue**
+![](../../static/img/png/roundup/jan.png)](/blog/roundup-2023-jan)
+
+---
+
+## Roundups Archive
 
 We'll keep this section updated with links to the monthly roundup posts, once they've been published.
 
- * **Issue #01**: [August 31, 2022](https://www.azurestaticwebapps.dev/blog/roundup-2022-aug)
- * **Issue #02**: [September 27, 2022](https://www.azurestaticwebapps.dev/blog/roundup-2022-sep)
- * **Issue #03**: [October 26, 2022](https://www.azurestaticwebapps.dev/blog/roundup-2022-oct)
- * **Issue #04**: [November 30, 2022](https://www.azurestaticwebapps.dev/blog/roundup-2022-nov)
+ * **Issue #01**: [Aug 2022](https://www.azurestaticwebapps.dev/thismonth/roundup-2022-aug)
+ * **Issue #02**: [Sep 2022](https://www.azurestaticwebapps.dev/thismonth/roundup-2022-sep)
+ * **Issue #03**: [Oct 2022](https://www.azurestaticwebapps.dev/thismonth/roundup-2022-oct)
+ * **Issue #04**: [Nov 2022](https://www.azurestaticwebapps.dev/thismonth/roundup-2022-nov)
+ * **Issue #05**: Holiday Break! 🥳 
+ * **Issue #06**: [Jan 2023](https://www.azurestaticwebapps.dev/thismonth/roundup-2023-jan)
+
+> Upcoming editions 
+
+ * **Issue #07**: Feb 2023 🚧
+ * **Issue #08**: Mar 2023
+ * **Issue #09**: Apr 2023
+ * **Issue #10**: May 2023
+ * **Issue #11**: Jun 2023
+ * **Issue #12**: Jul 2023
 
 ---
 
