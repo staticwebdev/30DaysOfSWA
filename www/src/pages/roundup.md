@@ -41,7 +41,7 @@ We'll keep this section updated with links to the monthly roundup posts, once th
 
 > Upcoming editions 
 
- * **Issue #07**: Feb 2023 🚧
+ * **Issue #07**: [Feb 2023](https://www.azurestaticwebapps.dev/thismonth/roundup-2023-feb)
  * **Issue #08**: Mar 2023
  * **Issue #09**: Apr 2023
  * **Issue #10**: May 2023
