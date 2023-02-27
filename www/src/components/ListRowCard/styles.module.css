@@ -1,0 +1,16 @@
+.rowcard {
+    display: flex;
+    align-items: center;
+    padding: 2rem 0;
+    width: 100%;
+}
+  
+.colImg{
+    height: 100%;
+    padding: 1rem;
+}
+
+.colText{
+    padding: 1rem;
+    width: 100%;
+}
