@@ -1,11 +1,10 @@
 import React from 'react';
-import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import ListRowCard from '@site/src/components/ListRowCard';
 
 const ItemList = [
     {
-      title: '101: Core Concepts',
+      title: '1: Core Concepts',
       img: require('@site/static/img/png/week1-roadmap.png'),
       link: "roadmap#core-concepts",
       description: (
@@ -15,7 +14,7 @@ const ItemList = [
       ),
     },
     {
-      title: '102: Usage Examples',
+      title: '2. Usage Examples',
       img: require('@site/static/img/png/week2-roadmap.png'),
       link: "roadmap#usage-examples",
       description: (
@@ -25,9 +24,9 @@ const ItemList = [
       ),
     },
     {
-      title: '🆕 201: Deep Dive Into "X"',
-      img: require('@site/static/img/series/roadmap.png'),
-      link: "roadmap",
+      title: '3: Database Connections (Collection) 🆕',
+      img: require('@site/static/img/collections/swa-dab-launch.png'),
+      link: "collections/dab",
       description: (
         <>
           Check back regularly for new "sprint plans" focused on deep-dives into new and existing features of Azure Static Web Apps. Begin with a quickstart, then explore feature usage examples with code examples.

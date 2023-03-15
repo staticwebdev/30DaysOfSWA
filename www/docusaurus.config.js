@@ -109,6 +109,7 @@ const config = {
 
           {to: '/roundup', label: 'Roundup', position: 'right'},
           {to: '/roadmap', label: 'Roadmap', position: 'right'},
+          {to: '/collections', label: 'Collections', position: 'right'},
           {to: 'https://learn.microsoft.com/en-us/azure/static-web-apps/?WT.mc_id=javascript-74011-ninarasi', label: 'Docs', position: 'right'},
           {to: 'https://portal.azure.com/?feature.customportal=false&WT.mc_id=javascript-61155-ninarasi#create/Microsoft.StaticApp', label: 'Deploy', position: 'right'},
          /* {to: '/roadmap', label: 'Roadmap', position: 'left'},*/
@@ -168,7 +169,7 @@ const config = {
           },
           */
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Microsoft </a> - Built with <a href="https://docusaurus.io"> Docusaurus </a> - Deployed to <a href="https://aka.ms/swa"> Azure </a> - Created by <a href="https://github.com/nitya"> @nitya </a>`,
+        copyright: `Copyright © ${new Date().getFullYear()} Microsoft </a> - Built with <a href="https://docusaurus.io"> Docusaurus, </a> & Hosted on <a href="https://aka.ms/swa"> Azure </a> - Follow <a href="https://twitter.com/AzureStaticApps"> @AzureStaticApps </a>`,
       },
 
       prism: {
@@ -217,8 +218,8 @@ const config = {
           '<b>Find #30DaysOfSWA useful? Give it a star on <a href="https://github.com/staticwebdev/30DaysOfSWA"><b>GitHub</b></a></b>',
         */
         '<b> Join: <a href="https://aka.ms/swa/community/standups"> Monthly Community Standups </a> | Visit: <a href="https://aka.ms/30DaysOfSWA/github">GitHub Repo</a> (& give us a ⭐️)</b>',
-        backgroundColor: '#50E6FF',
-        textColor: '#552F99',
+        backgroundColor: '#552f99',
+        textColor: '#ffffff',
         isCloseable: false,
       },
 
