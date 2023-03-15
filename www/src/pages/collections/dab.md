@@ -1,4 +1,24 @@
-# Database Connections: Collection
+<head>
+  <meta name="twitter:url"
+    content="https://www.azurestaticwebapps.dev/collections/dab" />
+  <meta name="twitter:title"
+    content="Database Connections For Azure Static Web Apps" />
+  <meta name="twitter:description"
+    content="Seamlessly connect your Azure Static Web App to Azure Databases without writing backend code, using the new Database Connections feature. Learn more at https://aka.ms/swa/collections/dab" />
+  <meta name="twitter:image"
+    content="https://azurestaticwebapps.dev/img/collections/swa-dab-launch.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:creator"
+    content="@nitya" />
+  <meta name="twitter:site" content="@AzureStaticApps" />
+  <link rel="canonical"
+    href="https://www.azurestaticwebapps.dev/collections/dab" />
+</head>
+
+
+![Static Web Apps Database Connections](../../../static/img/collections/swa-dab-launch.png)
+
+# Database Connections: Content Collection
 
 Modern web applications rely on scalable and cost-effective access to databases from their front-end experiences. Implementing the backend services to handle data interactions can be complex and repetitive. Wouldn't it be great if we could seamlessly access Azure databases using REST and GraphQL, without writing backend code?
 
@@ -18,6 +38,10 @@ On Mar 15 (today) we announced "database connections for Azure Static Web Apps",
  * [Read the Announcement Post](https://aka.ms/swa/db/announcement)
  * [Explore the Azure Samples](https://aka.ms/swa/db/samples)
  * [Explore the Documentation](https://aka.ms/swa/db/docs)
+
+We also have SWA CLI updates to share:
+ * [Database Connections now supported](https://www.npmjs.com/package/@azure/static-web-apps-cli)
+ * [SWA CLI Referennce Documentation](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli)
 
 ![Static Web Apps Database Connections](../../../static/img/collections/swa-database-connections.png)
 
@@ -89,5 +113,4 @@ This brings us to the end of launch week but our learning journey will continue.
 
 :::
 
-
-
+---
