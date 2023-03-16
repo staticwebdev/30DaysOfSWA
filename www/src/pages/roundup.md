@@ -3,9 +3,9 @@ title: This Month In SWA
 ---
 
 
-## Monthly Standup 🆕
+## 💬 | Monthly Standup 
 
-:::info JOIN THE MONTHLY COMMUNITY STANDUP!
+:::info | JOIN THE MONTHLY COMMUNITY STANDUP!
 
 Did you know the Azure Static Web Apps Team now hosts a monthly standup for the community on the **last Thursday** of each month? Join members of the Azure Static Web Apps team and their special guests as they cover key announcements and topics **LIVE!** and take your questions on chat! 
 
@@ -18,51 +18,21 @@ Did you know the Azure Static Web Apps Team now hosts a monthly standup for the 
 
 ---
 
-## Monthly Roundup
+## 🗓 | Monthly Roundup
 
-Welcome to `This Month In SWA` - a monthly roundup of [Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/overview) news and updates from the Product Team, Cloud & Student Advocacy - and from you, our amazing Developer Community.  
+:::info Lets talk about #ThisMonthInSWA
 
-[**Click here to read the latest issue**
-![](../../static/img/png/roundup/jan.png)](/blog/roundup-2023-jan)
+Welcome to **This Month In SWA** - a monthly roundup of [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) news and updates from the Product Team, Cloud & Student Advocacy - and from you, our amazing Developer Community. 
+ * Visit [**#ThisMonthInSWA**](/thismonth) to view past issues.
+ * Subscribe to the [**RSS Feed**](/thismonth/rss.xml) to get new issues directly!
+:::
 
----
+When we wrapped the [#30DaysOfSWA](roadmap) series in June 2022, we many of you continuing to stop by the site for content updates. There are many resources you can track individually:
+ * Follow the [**#staticwebapps tag on dev.to**](https://dev.to/t/staticwebapps) for community posts
+ * Follow the [**StaticWebApps topic on TechCommunity**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog/label-name/Static%20Web%20Apps) for product team and advocacy posts
+ * Follow the [**@AzureStaticApps handle on Twitter**](https://twitter.com/AzureStaticApps) for news on upcoming events & announcements
 
-## Roundups Archive
-
-We'll keep this section updated with links to the monthly roundup posts, once they've been published.
-
- * **Issue #01**: [Aug 2022](https://www.azurestaticwebapps.dev/thismonth/roundup-2022-aug)
- * **Issue #02**: [Sep 2022](https://www.azurestaticwebapps.dev/thismonth/roundup-2022-sep)
- * **Issue #03**: [Oct 2022](https://www.azurestaticwebapps.dev/thismonth/roundup-2022-oct)
- * **Issue #04**: [Nov 2022](https://www.azurestaticwebapps.dev/thismonth/roundup-2022-nov)
- * **Issue #05**: Holiday Break! 🥳 
- * **Issue #06**: [Jan 2023](https://www.azurestaticwebapps.dev/thismonth/roundup-2023-jan)
- * **Issue #07**: [Feb 2023](https://www.azurestaticwebapps.dev/thismonth/roundup-2023-feb)
-
-> Upcoming editions 
-
- * **Issue #08**: Mar 2023
- * **Issue #09**: Apr 2023
- * **Issue #10**: May 2023
- * **Issue #11**: Jun 2023
- * **Issue #12**: Jul 2023
-
----
-
-## Call For Contributions
-
-**Have you built something recently you want to share**? <br/>Use  [the custom issue](https://github.com/staticwebdev/30DaysOfSWA/issues/new/choose) to submit your news, articles, or events, for consideration this month, or in future issues. We typically review submissions received at least 3 days ahead of our publication date. Accepted contributions may be published in the next roundup, or in a future roundup (if time or space constraints factor in).
-
-* Roundup Post: **Last Monday each month** 
-* Standup Livestream: **Last Thursday each month.**
-
----
-
-## Why This Roundup?
-
-Since we concluded the [#30DaysOfSWA](roadmap) series in May/June 2022, we've noticed many of you continuing to visit this site for updates. At the same time, we've seen new posts published on the [#staticwebapps tag on dev.to](https://dev.to/t/staticwebapps) and on [Tech Community](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog/label-name/Static%20Web%20Apps) blogs. And we've seen learning events shared [via tweets @AzureStaticApps](https://twitter.com/AzureStaticApps) that many of you may not be aware of. 
-
-So we thought - why not _round up_ all the SWA news and activities each month, and make them available in a single post for convenient reading. The result: **This Month In SWA** - a blog post that we will publish on the last Wednesday of each month. The kind of content we hope to feature includes:
+But we thought it might help if we had a _round up_ of all the key news and content updates in a single montly post for convenient reading. That's the origin story for **#ThisMonthInSWA**. We hope to cover:
 
  * 🗓 | ** Events**: Past and Upcoming, featuring SWA talks or training opportunities.
  * 📢 | **Announcements**: Latest news or updates from the Product and Engineering teams.
@@ -70,15 +40,34 @@ So we thought - why not _round up_ all the SWA news and activities each month, a
  * 🐝 | **Community Buzz**: New articles, tutorials or samples authored by Community developers 
  * 🌟 | **Spotlight**: Featuring a project or person that makes a difference to SWA developers.
 
+[**Click here to read the latest issue**
+![](../../static/img/png/roundup/feb.png)](/thismonth/roundup-2023-feb)
+
 ---
 
-## How to Contribute?
+##  🚀 | Content Collections 
 
-Want to contribute content to our roundups? 
+:::info 🆕 LEARN WITH CONTENT COLLECTIONS
 
- * Just [submit this custom issue](https://github.com/staticwebdev/30DaysOfSWA/issues/new?assignees=&labels=ThisMonthIn+-+Community&template=---this-month-in-swa--community-submission.md&title=This+Month+In%3A+Community) with a link to your event, code project or content.
- * Feel free to share the issue with others for upvotes
- * We review submissions the week prior to publication
- * Accepted submissions will be tagged with link to post (and issue will be closed)
+Welcome to **[Content Collections](/collections)** - a new feature on this site that bundles a relevant set of posts or resources into a short collection that can help you skill up on a specific topic!
+ * Bookmark [**the collections page**](/collections) and revisit it for updates
+ * We will _spotlight_ new collections on #ThisMonthInSWA so [**subscribe to the RSS Feed**](https://www.azurestaticwebapps.dev/thismonth/rss.xml)
+:::
+
+When we created the [#30DaysOfSWA](roadmap) series, we deliberately designed a content plan with _themed weeks_ focused on a specific topic. Now, we are packaging these into **collections** - short content bundles that provide a deep dive into a particular topic or theme, that you can reuse, refer to, or compose into custom roadmaps.
+
+We also realized this was a good way to provide a comprehensive _content bundle_ to skill you up on new features on their debut - giving you a way to go from the launch announcement, to the documentation, to new tutorials and video resources that enhance your understanding.
 
 
+[**Click here for the latest collection on: Database Connections** ![SWA Dab Launch](../../static/img/collections/swa-dab-launch.png)](/collections/dab)
+
+---
+
+## 📣 | Call For Contributions
+
+**Have you built something recently you want to share**? <br/>Use  [**the custom issue**](https://github.com/staticwebdev/30DaysOfSWA/issues/new/choose) to submit your news, articles, or events, for consideration this month, or in future issues. We typically review submissions received at least 3 days ahead of our publication date. Accepted contributions may be published in the next roundup, or in a future roundup (if time or space constraints factor in).
+
+* Roundup Post: **Last Monday each month** 
+* Standup Livestream: **Last Thursday each month.**
+
+---

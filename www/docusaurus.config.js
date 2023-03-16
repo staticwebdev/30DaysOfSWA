@@ -106,10 +106,10 @@ const config = {
         items: [
           {to: '/thismonth', label: '#ThisMonthInSWA', position: 'left'},
           {to: '/blog', label: '#30DaysOfSWA', position: 'left'},
+          {to: '/collections', label: 'Collections 🆕', position: 'left'},
 
-          {to: '/roundup', label: 'Roundup', position: 'right'},
+          {to: '/roundup', label: 'Resources', position: 'right'},
           {to: '/roadmap', label: 'Roadmap', position: 'right'},
-          {to: '/collections', label: 'Collections', position: 'right'},
           {to: 'https://learn.microsoft.com/en-us/azure/static-web-apps/?WT.mc_id=javascript-74011-ninarasi', label: 'Docs', position: 'right'},
           {to: 'https://portal.azure.com/?feature.customportal=false&WT.mc_id=javascript-61155-ninarasi#create/Microsoft.StaticApp', label: 'Deploy', position: 'right'},
          /* {to: '/roadmap', label: 'Roadmap', position: 'left'},*/
