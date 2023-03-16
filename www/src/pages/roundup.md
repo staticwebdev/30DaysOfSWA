@@ -14,8 +14,7 @@ Did you know the Azure Static Web Apps Team now hosts a monthly standup for the 
 
 **Watch the replay from the last standup**
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/7hTQJs9Ku5Y?list=PLI7iePan8aH7Yo8vo288dAULgjyCCCcEJ&t=166" title="Welcome to Azure Static Web Apps Community Standups" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="800" height="400" src="https://www.youtube.com/embed/cCyH4ydtElY?t=176" title="Welcome to Azure Static Web Apps Community Standups" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -38,10 +37,10 @@ We'll keep this section updated with links to the monthly roundup posts, once th
  * **Issue #04**: [Nov 2022](https://www.azurestaticwebapps.dev/thismonth/roundup-2022-nov)
  * **Issue #05**: Holiday Break! 🥳 
  * **Issue #06**: [Jan 2023](https://www.azurestaticwebapps.dev/thismonth/roundup-2023-jan)
+ * **Issue #07**: [Feb 2023](https://www.azurestaticwebapps.dev/thismonth/roundup-2023-feb)
 
 > Upcoming editions 
 
- * **Issue #07**: [Feb 2023](https://www.azurestaticwebapps.dev/thismonth/roundup-2023-feb)
  * **Issue #08**: Mar 2023
  * **Issue #09**: Apr 2023
  * **Issue #10**: May 2023
@@ -52,10 +51,10 @@ We'll keep this section updated with links to the monthly roundup posts, once th
 
 ## Call For Contributions
 
-**Have you built something recently you want to share**? <br/>Use  [the custom issue](https://github.com/staticwebdev/30DaysOfSWA/issues/new/choose) to submit your news, articles, or events, for consideration this month, or in future issues.
+**Have you built something recently you want to share**? <br/>Use  [the custom issue](https://github.com/staticwebdev/30DaysOfSWA/issues/new/choose) to submit your news, articles, or events, for consideration this month, or in future issues. We typically review submissions received at least 3 days ahead of our publication date. Accepted contributions may be published in the next roundup, or in a future roundup (if time or space constraints factor in).
 
-* Next Publication Date: **February 20, 2023** 
-* Contribution Deadline: **February 15, 2023**
+* Roundup Post: **Last Monday each month** 
+* Standup Livestream: **Last Thursday each month.**
 
 ---
 

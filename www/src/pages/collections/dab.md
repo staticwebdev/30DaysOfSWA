@@ -41,7 +41,7 @@ On Mar 15 (today) we announced "database connections for Azure Static Web Apps",
 
 We also have SWA CLI updates to share:
  * [Database Connections now supported](https://www.npmjs.com/package/@azure/static-web-apps-cli)
- * [SWA CLI Referennce Documentation](https://learn.microsoft.com/en-us/azure/static-web-apps/static-web-apps-cli)
+ * [SWA CLI Referennce Documentation](https://learn.microsoft.com/azure/static-web-apps/static-web-apps-cli)
 
 ![Static Web Apps Database Connections](../../../static/img/collections/swa-database-connections.png)
 
@@ -52,7 +52,7 @@ Starting tomorrow, we hope to share more resources to help you dive into the top
 ## 2. Coming Soon: (Video)
 
 :::info VIDEO: AZURE TIPS & TRICKS
-_Azure Static Web Apps Tips and Tricks_ is a video series that walks through the various features of Azure Static Web Apps, one episode at a time. | [**Watch Past Episodes**](https://learn.microsoft.com/en-us/shows/azure-tips-and-tricks-static-web-apps/)
+_Azure Static Web Apps Tips and Tricks_ is a video series that walks through the various features of Azure Static Web Apps, one episode at a time. | [**Watch Past Episodes > Microsoft Learn **](https://aka/ms/StaticWebAppsTips/)
 
 ⏸ | Revisit the page on _Mar 16_ for a first look at the Database Connections episode.
 
@@ -63,7 +63,7 @@ _Azure Static Web Apps Tips and Tricks_ is a video series that walks through the
 ## 3. Coming Soon: (Tutorial)
 
 :::info TUTORIAL: BLAZOR APP + GRAPHQL
-_Database Connections_ can support both REST and GraphQL endpoints for access. In this blog post we'll walk through a code sample showing how to use GraphQL as a service with a Blazor app and an Azure CosmosDB NoSQL database. | [**View Older Posts: Apps On Azure**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog/label-name/Static%20Web%20Apps)
+_Database Connections_ can support both REST and GraphQL endpoints for access. In this blog post we'll walk through a code sample showing how to use GraphQL as a service with a Blazor app and an Azure CosmosDB NoSQL database. | [**View Older Posts > Apps On Azure**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog/label-name/Static%20Web%20Apps)
 
 ⏸ | Revisit the page on _Mar 17_ for a first look.
 
@@ -74,7 +74,7 @@ _Database Connections_ can support both REST and GraphQL endpoints for access. I
 ## 4. Coming Soon: (Tutorial)
 
 :::info TUTORIAL: REACT APP + AZURE SQL
-_Database Connections_ works seamlessly with different Azure Database options. In this blog post we'll walk through a code sample showing a React application with an Azure SQL database. | [**View Older Posts: Apps On Azure**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog/label-name/Static%20Web%20Apps)
+_Database Connections_ works seamlessly with different Azure Database options. In this blog post we'll walk through a code sample showing a React application with an Azure SQL database. | [**View Older Posts > Apps On Azure**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog/label-name/Static%20Web%20Apps)
 
 ⏸ | Revisit the page on _Mar 20_ for a first look.
 
@@ -85,7 +85,7 @@ _Database Connections_ works seamlessly with different Azure Database options. I
 ## 5. Coming Soon: (Article)
 
 :::info ARTICLE: BEST PRACTICES 
-Azure Static Web Apps with Database Connections provides rich options for flexible application development. In this post, we'll talk about best practices for usage. | [**View Older Posts: Apps On Azure**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog/label-name/Static%20Web%20Apps)
+Azure Static Web Apps with Database Connections provides rich options for flexible application development. In this post, we'll talk about best practices for usage. | [**View Older Posts > Apps On Azure**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog/label-name/Static%20Web%20Apps)
 
 ⏸ | Revisit the page on _Mar 21_ for a first look.
 
@@ -96,7 +96,7 @@ Azure Static Web Apps with Database Connections provides rich options for flexib
 ## 6. Coming Soon: (Tutorial)
 
 :::info Tutorial: SVELTE APP + AZURE COSMOSDB
-Svelte is an increasingly popular framework for building modern web apps. In this post, we'll walk through a code sample using Svelte + Azure CosmosDB with a practical use case. | [**View Older Posts: Apps On Azure**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog/label-name/Static%20Web%20Apps)
+Svelte is an increasingly popular framework for building modern web apps. In this post, we'll walk through a code sample using Svelte + Azure CosmosDB with a practical use case. | [**View Older Posts > Apps On Azure**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog/label-name/Static%20Web%20Apps)
 
 ⏸ | Revisit the page on _Mar 22_ for a first look.
 
@@ -107,7 +107,7 @@ Svelte is an increasingly popular framework for building modern web apps. In thi
 ## 7. Coming Soon: (Article)
 
 :::info WRAP-UP: RESOURCES & NEXT STEPS
-This brings us to the end of launch week but our learning journey will continue. In this post, we'll share useful resources for self-study and give a sneak peek at planned future posts for this collection. | [**View Older Posts: Apps On Azure**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog/label-name/Static%20Web%20Apps)
+This brings us to the end of launch week but our learning journey will continue. In this post, we'll share useful resources for self-study and give a sneak peek at planned future posts for this collection. | [**View Older Posts > Apps On Azure**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog/label-name/Static%20Web%20Apps)
 
 ⏸ | Revisit the page on _Mar 23_ for a first look.
 
