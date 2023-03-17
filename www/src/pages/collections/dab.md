@@ -24,15 +24,15 @@ Modern web applications rely on scalable and cost-effective access to databases 
 
 Now, you can! Join us for a week of exploration related to _Database Connections For Azure Static Web Apps_ - **check back daily for a new resource to help you learn more about this feature!**
 
+---
+
+## 1. Launch Announcement
+
 :::tip WE VALUE YOUR FEEDBACK!
 We want to keep improving this feature, and the Azure Static Web Apps developer experience, to meet your needs. **Your feedback matters!** so please leave us comments and questions at the link below!
 
 💬 | [**Contribute to the discussion!**](https://github.com/Azure/static-web-apps/discussions/1111)
 :::
-
----
-
-## 1. Launch Announcement
 
 On Mar 15 (today) we announced "database connections for Azure Static Web Apps", an easy way to access your Azure database content from your front-end static app with REST and GraphQL, without having to write any backend code. Get started for free during public preview.
  * [Read the Announcement Post](https://aka.ms/swa/db/announcement)
