@@ -4,7 +4,17 @@ import ListRowCard from '@site/src/components/ListRowCard';
 
 const ItemList = [
     {
-      title: '1: Core Concepts',
+      title: '🆕 | Database Connections ',
+      img: require('@site/static/img/collections/swa-dab-launch.png'),
+      link: "collections/dab",
+      description: (
+        <>
+          Mar 15, 2023: Today marked the launch of a new feature: <em>Database Connections</em> for Azure Static Web Apps. This feature enables your application to connect seamlessly to supported Azure databases over REST or GraphQL endpoints, without you having to write any backend code. Explore this collection to learn about the feature, browse docs, and explore code samples and tutorials for applied understanding.
+        </>
+      ),
+    },
+    {
+      title: '01 | Core Concepts',
       img: require('@site/static/img/png/week1-roadmap.png'),
       link: "roadmap#core-concepts",
       description: (
@@ -14,7 +24,7 @@ const ItemList = [
       ),
     },
     {
-      title: '2. Usage Examples',
+      title: '02 | Usage Examples',
       img: require('@site/static/img/png/week2-roadmap.png'),
       link: "roadmap#usage-examples",
       description: (
@@ -24,12 +34,23 @@ const ItemList = [
       ),
     },
     {
-      title: '3: Database Connections (Collection) 🆕',
-      img: require('@site/static/img/collections/swa-dab-launch.png'),
-      link: "collections/dab",
+      title: '03 | Developer Tools',
+      img: require('@site/static/img/png/week3-roadmap.png'),
+      link: "roadmap#developer-tools",
       description: (
         <>
-          Check back regularly for new "sprint plans" focused on deep-dives into new and existing features of Azure Static Web Apps. Begin with a quickstart, then explore feature usage examples with code examples.
+          Explore the developer experience in building and deploying modern web apps. We'll introduce you to a few tools that can simplify your develop-debug-deploy-test workflows. Some of these tools are specific to Azure Static Web Apps, but most are broadly applicable for modern web app development.
+        </>
+      ),
+    },
+    {
+      title: '04 | Best Practices',
+      img: require('@site/static/img/png/week4-roadmap.png'),
+      link: "roadmap#best-practices",
+      description: (
+        <>
+        Let's explore advanced use cases and best practices that can help take your Azure Static Web App to the next level. This collection provides insights into E2E development, real-world case studies and Azure service integrations.
+          
         </>
       ),
     },
