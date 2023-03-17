@@ -49,14 +49,19 @@ Starting tomorrow, we hope to share more resources to help you dive into the top
 
 ---
 
-## 2. Coming Soon: (Video)
+## 2. Azure Tips & Tricks
 
-:::info VIDEO: AZURE TIPS & TRICKS
-_Azure Static Web Apps Tips and Tricks_ is a video series that walks through the various features of Azure Static Web Apps, one episode at a time. | [**Watch Past Episodes > Microsoft Learn **](https://aka/ms/StaticWebAppsTips/)
-
-⏸ | Revisit the page on _Mar 16_ for a first look at the Database Connections episode.
+:::success DIVE INTO: DATABASE CONNECTIONS (2-part video)
+_Azure Static Web Apps Tips and Tricks_ is a video series that walks through the various features of Azure Static Web Apps, one episode at a time. | _Watch Past Episodes_ on [**Microsoft Learn**](https://learn.microsoft.com/shows/azure-tips-and-tricks-static-web-apps/) or [**YouTube**](https://aka/ms/StaticWebAppsTips/)
 
 :::
+
+Today, we're debuting 2 new episodes focused on Database Connections. 
+1. ✨ **Connect to a Database from Static Web Apps using a REST API** -  Join Thomas Gauvin for this video tutorial showing you how to connect your Azure SQL Database to your Static Web Apps, and access it through a secure data endpoint generated for you, using the REST API.
+    <iframe width="800" height="420" src="https://www.youtube.com/embed/vGOnh0UrADg" title="Connect to a Database directly from Static Web Apps [Part 21] | Azure Tips and Tricks" allowfullscreen></iframe>
+
+2. ✨ **Query a Database from your Static Web Apps using a GraphQL API** - Join Craig Shoemaker and learn how to query the database using a GraphQL endpoint. 
+    <iframe width="800" height="420"  src="https://www.youtube.com/embed/NF0EC68rdQk?list=PLlrxD0HtieHgMPeBaDQFx9yNuFxx6S1VG" title="Query a Database using GraphQL from your Static Web Apps [Part 22] | Azure Tips and Tricks" allowfullscreen></iframe>
 
 ---
 
