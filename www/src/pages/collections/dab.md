@@ -65,14 +65,20 @@ Today, we're debuting 2 new episodes focused on Database Connections.
 
 ---
 
-## 3. Coming Soon: (Tutorial)
+## 3. Blazor SWA + GraphQL
 
-:::info TUTORIAL: BLAZOR APP + GRAPHQL
-_Database Connections_ can support both REST and GraphQL endpoints for access. In this blog post we'll walk through a code sample showing how to use GraphQL as a service with a Blazor app and an Azure CosmosDB NoSQL database. | [**View Older Posts > Apps On Azure**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog/label-name/Static%20Web%20Apps)
-
-⏸ | Revisit the page on _Mar 17_ for a first look.
-
+:::success DIVE INTO: GRAPHQL ON AZURE
+_Database Connections_ can support both REST and GraphQL endpoints for access. Want to explore GraphQL on Azure? Check out [**this ongoing series of posts**](https://www.aaron-powell.com/posts/2020-07-13-graphql-on-azure-part-1-getting-started/) from Microsoft Cloud Advocate [Aaron Powell](https://github.com/aaronpowell).
 :::
+
+Today, Aaron is sharing 3 new posts in the series that provide more hands-on learning for using Database Connections in your modern web app.
+
+1. [**Part 12: GraphQL as a Service**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/graphql-on-azure-part-12-graphql-as-a-service/ba-p/3769306) provides an introduction to the new[Data API Builder for Azure Databases](https://aka.ms/dabdocs)(*DAB*) - currently in public preview - the underlying technology that provides an easy way to create REST or GraphQL endpoints to your existing Azure database without you having to write backend code.
+2. [**Part 13: Using Data API builder with Azure Static Web Apps**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/graphql-on-azure-part-13-using-data-api-builder-with-swa-and/ba-p/3769309) - next, take a look at how the DAB capability can be accessed seamlessly in your Azure Static Web App using the new [Database Connections](https://aka.ms/swa/db/announcement) feature using a simple React app example. (_Note_: Another [**upcoming post**](collections/dab#4-coming-soon-tutorial) in this collection will walk through an official React sample for SWA+DAB in more detail so stay tuned).
+3. [**Part 14: Using Data API builder with SWA and Blazor**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/graphql-on-azure-part-14-using-data-api-builder-with-swa-and/ba-p/3769316) Today, we want to feature this post which implements the same use case - the Trivia game shown below - as a **Blazor application** using the [Strawberry Shake NuGet package](https://chillicream.com/docs/strawberryshake/v13/get-started). | 👉🏽 **[Explore the source](https://github.com/aaronpowell/dab-blazor-trivia-demo)**
+
+
+![Blazor App walkthrough image](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/450984i7B56CB972EDE3D25/image-size/large?v=v2&px=999)
 
 ---
 
