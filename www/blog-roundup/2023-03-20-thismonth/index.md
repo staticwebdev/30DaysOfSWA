@@ -22,7 +22,7 @@ Welcome to the **March 2023** edition of **This Month in SWA** 🎉
 
 :::info ABOUT THE ROUNDUP 
 
-The roundup is traditionally published **on the fourth Monday of each month** - just ahead of the [**Azure Static Web Apps Community Standup**](https://www.youtube.com/playlist?list=PLI7iePan8aH7Yo8vo288dAULgjyCCCcEJ) held on the fourth Thursday of each month. Catch up on all the news and announcements in one friendly blog post, then join the livestream for interactive discussions, demos and more.
+The roundup is traditionally published **on the fourth Monday of each month** - just ahead of the [**Azure Static Web Apps Community Standup**](https://aka.ms/swa/community/standups) held on the fourth Thursday of each month. Catch up on all the news and announcements in one friendly blog post, then join the livestream for interactive discussions, demos and more.
 
  * Want to make sure you don't miss the next roundup? <a href="/thismonth/rss.xml" target="_blank">**Subscribe to the feed**</a>.
  * Want to contribute items for roundup? [**Submit this custom issue**](https://github.com/staticwebdev/30DaysOfSWA/issues/new?assignees=&labels=ThisMonthIn+-+Community&template=---this-month-in-swa--community-submission.md&title=This+Month+In%3A+Community).
@@ -76,7 +76,7 @@ _This section highlights content from our amazing developer community - submitte
 
 _This section highlights in-person or online events that are likely to feature Azure Static Web Apps content or developer conversations - links to CFPs or registration links are welcome!_
 
-* **March 23** | ✨ **Join LIVE for [Azure Static Web Apps Community Standups](https://www.youtube.com/watch?v=7hTQJs9Ku5Y)** ✨ Meet members of the Azure Static Web Apps team as they cover the latest news, demos and announcements in a livestreamed event (12pm EST).
+* **March 23** | ✨ **Join LIVE for [Azure Static Web Apps Community Standups](https://www.youtube.com/live/9O4qZ6VHOIA?feature=share)** ✨ Meet members of the Azure Static Web Apps team as they cover the latest news, demos and announcements in a livestreamed event (12pm EST).
 * **April 5** | [**Azure Developers - .NET Day**](https://learn.microsoft.com/events/learn-events/azuredeveloper-dotnetday/) Join us to discover the latest services and features in Azure designed specifically for .NET developers. You'll learn cutting-edge cloud development techniques that can save you time and money, while providing your customers with the best experience possible.
 * **April 26** | [**VS Code Day 2023**](https://learn.microsoft.com/events/learn-events/vs-code-day-2023/) Our annual event where you'll learn how to elevate your development workflow using the latest and greatest features of VS Code.
 * **May 23-24** | [**Microsoft Build**](https://build.microsoft.com/home) Advance your knowledge and skills with deep interactive sessions focused on cloud and AI, .NET, data and analytics, dev tools, DevSecOps and SRE, low-code, and more. [Register now](https://register.build.microsoft.com/) to attend the event live in Seattle or remote from anywhere in the world.
