@@ -74,7 +74,7 @@ _Database Connections_ can support both REST and GraphQL endpoints for access. W
 Today, Aaron is sharing 3 new posts in the series that provide more hands-on learning for using Database Connections in your modern web app.
 
 1. [**Part 12: GraphQL as a Service**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/graphql-on-azure-part-12-graphql-as-a-service/ba-p/3769306) provides an introduction to the new[Data API Builder for Azure Databases](https://aka.ms/dabdocs)(*DAB*) - currently in public preview - the underlying technology that provides an easy way to create REST or GraphQL endpoints to your existing Azure database without you having to write backend code.
-2. [**Part 13: Using Data API builder with Azure Static Web Apps**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/graphql-on-azure-part-13-using-data-api-builder-with-swa-and/ba-p/3769309) - next, take a look at how the DAB capability can be accessed seamlessly in your Azure Static Web App using the new [Database Connections](https://aka.ms/swa/db/announcement) feature using a simple React app example. (_Note_: Another [**upcoming post**](collections/dab#4-coming-soon-tutorial) in this collection will walk through an official React sample for SWA+DAB in more detail so stay tuned).
+2. [**Part 13: Using Data API builder with Azure Static Web Apps**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/graphql-on-azure-part-13-using-data-api-builder-with-swa-and/ba-p/3769309) - next, take a look at how the DAB capability can be accessed seamlessly in your Azure Static Web App using the new [Database Connections](https://aka.ms/swa/db/announcement) feature and a React app example. (_Note_: Another [**upcoming post**](collections/dab#4-coming-soon-tutorial) in this collection will walk through the official React sample for SWA+DAB so stay tuned).
 3. [**Part 14: Using Data API builder with SWA and Blazor**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/graphql-on-azure-part-14-using-data-api-builder-with-swa-and/ba-p/3769316) Today, we want to feature this post which implements the same use case - the Trivia game shown below - as a **Blazor application** using the [Strawberry Shake NuGet package](https://chillicream.com/docs/strawberryshake/v13/get-started). | 👉🏽 **[Explore the source](https://github.com/aaronpowell/dab-blazor-trivia-demo)**
 
 
@@ -82,14 +82,17 @@ Today, Aaron is sharing 3 new posts in the series that provide more hands-on lea
 
 ---
 
-## 4. Coming Soon: (Tutorial)
+## 4. Vue, React, Angular
 
-:::info TUTORIAL: REACT APP + AZURE SQL
-_Database Connections_ works seamlessly with different Azure Database options. In this blog post we'll walk through a code sample showing a React application with an Azure SQL database. | [**View Older Posts > Apps On Azure**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog/label-name/Static%20Web%20Apps)
-
-⏸ | Revisit the page on _Mar 20_ for a first look.
-
+:::success BOOKMARK: AZURE SAMPLES FOR DATA API BUILDER
+The Azure Static Web Apps Database Connections feature uses the [Data API builder for Azure Databases](https://github.com/Azure/data-api-builder) to support REST and GraphQL endpoints for your deployed app. The [Azure-Samples/data-api-builder](https://github.com/Azure-Samples/data-api-builder) is a good resource to discover and explore _end-to-end_ samples using this feature. 
 :::
+
+Here are three samples showcasing Static Web Apps Database Connections:
+ 1. [**Vue + AzureSQL**](https://github.com/Azure-Samples/dab-swa-todo) - The well-known ToDo MVC application, built using Database connections and SWA.
+ 2. [**React + AzureSQL**](https://github.com/Azure-Samples/dab-swa-library-demo) - Organize track books with this sample app, built using Database connections and SWA.
+ 3. [**Angular + CosmosDB (NoSQL)**](https://github.com/Azure-Samples/dab-swa-wonders) - Tour world wonders in this app, built using Database connections and SWA.
+
 
 ---
 
@@ -98,7 +101,7 @@ _Database Connections_ works seamlessly with different Azure Database options. I
 :::info ARTICLE: BEST PRACTICES 
 Azure Static Web Apps with Database Connections provides rich options for flexible application development. In this post, we'll talk about best practices for usage. | [**View Older Posts > Apps On Azure**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog/label-name/Static%20Web%20Apps)
 
-⏸ | Revisit the page on _Mar 21_ for a first look.
+⏸ | Revisit the page on Mar 31 for updates.
 
 :::
 
@@ -109,7 +112,7 @@ Azure Static Web Apps with Database Connections provides rich options for flexib
 :::info Tutorial: SVELTE APP + AZURE COSMOSDB
 Svelte is an increasingly popular framework for building modern web apps. In this post, we'll walk through a code sample using Svelte + Azure CosmosDB with a practical use case. | [**View Older Posts > Apps On Azure**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog/label-name/Static%20Web%20Apps)
 
-⏸ | Revisit the page on _Mar 22_ for a first look.
+⏸ | Revisit the page on Mar 31 for updates.
 
 :::
 
@@ -120,7 +123,7 @@ Svelte is an increasingly popular framework for building modern web apps. In thi
 :::info WRAP-UP: RESOURCES & NEXT STEPS
 This brings us to the end of launch week but our learning journey will continue. In this post, we'll share useful resources for self-study and give a sneak peek at planned future posts for this collection. | [**View Older Posts > Apps On Azure**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog/label-name/Static%20Web%20Apps)
 
-⏸ | Revisit the page on _Mar 23_ for a first look.
+⏸ | Revisit the page on Mar 31 for updates.
 
 :::
 
