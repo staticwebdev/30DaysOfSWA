@@ -102,7 +102,7 @@ This new feature allows you to access Azure databases using REST and GraphQL, wi
 
 ![](swa-database-connections.png)
 
-Ready to learn more? We've got you covered! The site is now updated with _Collections_ where you can find links to recoures for lots of topics. Check out our [**Database Connections: Content Collection**](../collections/dab) with all you'll need on database connections. 
+Ready to learn more? We've got you covered! The site is now updated with _Collections_ where you can find links to recoures for lots of topics. Check out our [**Database Connections: Content Collection**](/collections/dab) with all you'll need on database connections. 
 
 Or, here's some links for you to get your database connection going now:
 * [Get started for free by connecting a database to your Static Web Apps resource](https://aka.ms/swa/db/getstarted)
