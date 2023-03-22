@@ -44,7 +44,7 @@ And don't forget to contribute _your_ updates for inclusion in the next issue!
 _This section covers recent news or announcements from the product team. Read on to learn the latest news from the world of Azure Static Web Apps!_ 
 
 > 🌟 **Database Connections** now available! 🌟<br/>
-> Find all the resources in our [Database Connections: Content Collection](../collections/dab)
+> Find all the resources in our [Database Connections: Content Collection](/collections/dab)
 
 * **March 15** | [Public preview: Azure Static Web Apps support for A Record](https://azure.microsoft.com/en-us/updates/public-preview-azure-static-web-apps-support-for-a-record/) Azure Static Web Apps introduces the ability to add an APEX custom domain with an `A` record to enable the use of domain registrars that do not support `ALIAS` record, `ANAME` record and `CNAME` flattening. | _**[Read More For Details!](https://aka.ms/swa/arecords)**_
 * **March 15** | [Public preview: Database connections support in Azure Static Web Apps](https://azure.microsoft.com/en-us/updates/public-preview-database-connections-support-in-azure-static-web-apps/) Azure Static Web Apps introduces database connections with Data API Builder. Now, you can access your Azure database content directly from your frontend client application, without the need to write backend code. Make REST and GraphQL requests to the built-in `/data-api` endpoint to securely retrieve and modify your database contents. | _**[Learn more and get started today!](https://aka.ms/swa/database-connections)**_
