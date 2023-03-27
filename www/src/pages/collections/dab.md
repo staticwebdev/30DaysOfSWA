@@ -93,17 +93,27 @@ Here are three samples showcasing Static Web Apps Database Connections:
  2. [**React + AzureSQL**](https://github.com/Azure-Samples/dab-swa-library-demo) - Organize track books with this sample app, built using Database connections and SWA.
  3. [**Angular + CosmosDB (NoSQL)**](https://github.com/Azure-Samples/dab-swa-wonders) - Tour world wonders in this app, built using Database connections and SWA.
 
+![Screenshot from React Library Management demo](https://github.com/Azure-Samples/dab-swa-library-demo/blob/main/.readme/anonuserscreate.png?raw=true)
 
 ---
 
-## 5. Coming Soon: (Article)
+## 5. Learn Best Practices
 
-:::info ARTICLE: BEST PRACTICES 
-Azure Static Web Apps with Database Connections provides rich options for flexible application development. In this post, we'll talk about best practices for usage. | [**View Older Posts > Apps On Azure**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog/label-name/Static%20Web%20Apps)
+:::success BEST PRACTICES FOR USING DATABASE CONNECTIONS 
 
-⏸ | Revisit the page on Mar 31 for updates.
-
+Want to connect your Azure Static Web Apps to your database? Should you use Azure Functions with a managed, serverless API interface? Or use Data API builder directly? Or use the new Database Connections feature in SWA that wraps it? _Let's learn about best practices_ when taking the decision.
 :::
+
+Today, we are sharing a new blog post from Static Web Apps PM Thomas Gauvin, that looks at this particular question. In particular, it helps you understand the choices between using Azure Functions (managed), Data API builder (direct) or Database Connections (seamless) options to connect your Azure Static Web App to your database.
+ 
+* **[Read the Article](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/building-static-web-apps-with-database-connections-best/ba-p/3777155)** 
+* [**View Older Posts**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog/label-name/Static%20Web%20Apps)
+
+![Architectural Diagram for SWA with Database Connections](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/453733i20F8C4402EF72A9B/image-size/large?v=v2&px=999)
+
+But wait, there's more! Check out the recent [Azure SWA Community Standups](https://aka.ms/swa/community/standups) recording where Davide Mauri (Data API Builder PM) and Thomas Gauvin (SWA PM) discuss the new Database Connections feature and how it works - with more insights into best practices and usage.
+
+<iframe width="800" height="420" src="https://www.youtube.com/embed/9O4qZ6VHOIA?list=PLI7iePan8aH4AiiQ6UejZ4lxmbK3QX4Dy" title="Database connections | Azure Static Web Apps Community Standup" allowfullscreen></iframe>
 
 ---
 
