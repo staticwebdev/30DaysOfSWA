@@ -5,7 +5,7 @@ import ListRowCard from '@site/src/components/ListRowCard';
 const ItemList = [
     {
       title: '🆕 | Database Connections ',
-      img: require('@site/static/img/collections/swa-dab-launch.png'),
+      img: require('@site/static/img/collections/dab/swa-dab-launch.png'),
       link: "collections/dab",
       description: (
         <>

@@ -6,7 +6,7 @@
   <meta name="twitter:description"
     content="Seamlessly connect your Azure Static Web App to Azure Databases without writing backend code, using the new Database Connections feature. Learn more at https://aka.ms/swa/collections/dab" />
   <meta name="twitter:image"
-    content="https://azurestaticwebapps.dev/img/collections/swa-dab-launch.png" />
+    content="https://azurestaticwebapps.dev/img/collections/dab/swa-dab-launch.png" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:creator"
     content="@nitya" />
@@ -16,7 +16,7 @@
 </head>
 
 
-![Static Web Apps Database Connections](../../../static/img/collections/swa-dab-launch.png)
+![Static Web Apps Database Connections](../../../static/img/collections/dab/swa-dab-launch.png)
 
 # Database Connections: Content Collection
 
@@ -43,7 +43,7 @@ We also have SWA CLI updates to share:
  * [Database Connections now supported](https://www.npmjs.com/package/@azure/static-web-apps-cli)
  * [SWA CLI Referennce Documentation](https://learn.microsoft.com/azure/static-web-apps/static-web-apps-cli)
 
-![Static Web Apps Database Connections](../../../static/img/collections/swa-database-connections.png)
+![Static Web Apps Database Connections](../../../static/img/collections/dab/swa-database-connections.png)
 
 Starting tomorrow, we hope to share more resources to help you dive into the topic - from video walkthroughs to articles on best practices, and tutorials illustrating usage with different frameworks and usage scenarios.
 
@@ -117,23 +117,46 @@ But wait, there's more! Check out the recent [Azure SWA Community Standups](http
 
 ---
 
-## 6. Coming Soon: (Tutorial)
+## 6. Vue + Azure SQL |🇬🇧 🇧🇷
 
-:::info Tutorial: SVELTE APP + AZURE COSMOSDB
-Svelte is an increasingly popular framework for building modern web apps. In this post, we'll walk through a code sample using Svelte + Azure CosmosDB with a practical use case. | [**View Older Posts > Apps On Azure**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog/label-name/Static%20Web%20Apps)
-
-⏸ | Revisit the page on Mar 31 for updates.
-
+:::info LOCALIZED WORKSHOP OPTIONS AVAILABLE
+The GitHub Repo below has versions of the workshop in English (🇬🇧) and Portuguese (🇧🇷) already completed. [Star the repo](https://github.com/glaucia86/dab-workshop) and watch for upcoming versions in Spanish and French. Leave a comment if you'd like to see (or contribute) translations for other languages.
 :::
+
+Azure Static Web Apps _Database Connections_ is based on the underlying [Data API builder](https://learn.microsoft.com/azure/data-api-builder/overview-to-data-api-builder?WT.mc_id=javascript-75515-gllemos) for Azure Databases. But what exactly does Data API builder work under the hood, and how can you use it for different applications? Jumpstart your learning journey into Data API builder with this new series of workshops from Cloud Advocate Glaucia Lemos.
+
+![Data API Builder](https://learn.microsoft.com/en-us/azure/data-api-builder/media/data-api-builder-architecture-overview.png)
+
+This repository is intended to host an **evolving series** of workshops that will show you how to develop applications with DAb - starting with a Vue.js front-end and an Azure SQL backend example **shown below**. Future workshops will explore different front-end frameworks and/or backend database options. Workshops come with step-by-step instructions, with localized versions available currently for English and Portuguese.
+
+ * ✨ **Worshop Repo** | **[Full Stack Application with DAB + Azure SQL and Vue.Js](https://github.com/glaucia86/dab-workshop)**
+
+![Walkthrough for demo](./../../../static/img/collections/dab/dab-walkthrough.gif)
+
+
 
 ---
 
-## 7. Coming Soon: (Article)
+## 7. SvelteKit + Azure MySQL
+
+:::info SVELTEKIT + AZURE STATIC WEB APPS
+Svelte is an increasingly popular framework for building modern web apps. With the recent release of [SvelteKit 1.0](https://kit.svelte.dev/) you now have built-in [adapters for zero-config deployment](https://kit.svelte.dev/docs/adapter-auto) to popular hosting environments - **including Azure Static Web Apps**. Get a jumpstart into Svelte Application Development with Azure in this tutorial.
+
+⏸ | Revisit the page tomorrow for updates.
+
+:::
+
+
+
+
+---
+
+## Wrap-Up
 
 :::info WRAP-UP: RESOURCES & NEXT STEPS
 This brings us to the end of launch week but our learning journey will continue. In this post, we'll share useful resources for self-study and give a sneak peek at planned future posts for this collection. | [**View Older Posts > Apps On Azure**](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog/label-name/Static%20Web%20Apps)
 
-⏸ | Revisit the page on Mar 31 for updates.
+⏸ | Revisit the page Monday for updates.
 
 :::
 

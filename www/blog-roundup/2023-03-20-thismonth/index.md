@@ -100,7 +100,7 @@ This new feature allows you to access Azure databases using REST and GraphQL, wi
 
 :::
 
-![](swa-database-connections.png)
+![SWA Database Connections](swa-database-connections.png)
 
 Ready to learn more? We've got you covered! The site is now updated with _Collections_ where you can find links to recoures for lots of topics. Check out our [**Database Connections: Content Collection**](/collections/dab) with all you'll need on database connections. 
 

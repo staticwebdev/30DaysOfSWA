@@ -59,7 +59,7 @@ When we created the [#30DaysOfSWA](roadmap) series, we deliberately designed a c
 We also realized this was a good way to provide a comprehensive _content bundle_ to skill you up on new features on their debut - giving you a way to go from the launch announcement, to the documentation, to new tutorials and video resources that enhance your understanding.
 
 
-[**Click here for the latest collection on: Database Connections** ![SWA Dab Launch](../../static/img/collections/swa-dab-launch.png)](/collections/dab)
+[**Click here for the latest collection on: Database Connections** ![SWA Dab Launch](../../static/img/collections/dab/swa-dab-launch.png)](/collections/dab)
 
 ---
 
