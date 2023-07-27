@@ -177,7 +177,7 @@ const config = {
         darkTheme: darkCodeTheme,
       },
 
-      image: 'https://www.azurestaticwebapps.dev/img/png/roundup/sep.png',
+      image: 'https://www.azurestaticwebapps.dev/img/png/roundup/tmis-links.png',
 
       metadata: [
         {
