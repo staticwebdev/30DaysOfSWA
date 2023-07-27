@@ -3,7 +3,7 @@ slug: roundup-2023-jul
 title: "2023 | July"
 authors: [nitya, sara, thomas, matt, dina]
 tags: [swa, thismonth, mar]
-draft: true
+draft: false
 ---
 
 <head>
