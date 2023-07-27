@@ -8,8 +8,8 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 // Import roadmap
 import Image from '@theme/IdealImage';
-//import bannerImg from './../../static/img/png/roundup/feb.png';
-import bannerImg from './../../static/img/collections/dab/swa-dab-launch.png';
+import bannerImg from './../../static/img/png/roundup/tmis-links.png';
+//import bannerImg from './../../static/img/collections/dab/swa-dab-launch.png';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -21,11 +21,11 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         */}
         { /*<h3> #ThisMonthInSWA - Feb 2023! </h3>*/ }
-        <h3> 🚀 Announcing: Database Connections For SWA </h3>
-        <Link to="collections/dab">
+        <h3> 🍿 Catch Up On the Latest SWA News Each Month! </h3>
+        <Link to="/thismonth">
           <Image img={bannerImg} className={styles.featureImg} />
         </Link>
-        <h5>Click the image to explore our Collection on this topic!</h5>
+        <h5>Click the banner to visit the archives!</h5>
       </div>
     </header>
   );
