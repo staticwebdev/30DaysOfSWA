@@ -48,16 +48,16 @@ Let's start with **Community Highlights**
 
 ### Community: Blogs 
 
-- Azure Static Web Apps, Next.js and Azure DevOps (Japanese) - Jul 5 
-- Use preview environments for testing SWA – Jul 11 
-- Deploying with SWA is even faster with new HTML preset – Jul 17 
+- [Azure Static Web Apps, Next.js and Azure DevOps (Japanese)](https://zenn.dev/yusu29/articles/azuredevops_staticapps_next) - `Jul 5`
+- [Use preview environments for testing SWA](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/use-preview-environment-for-test-in-static-web-app/ba-p/3870476) – `Jul 11`` 
+- [Deploying with SWA is even faster with new HTML preset](https://techcommunity.microsoft.com/t5/educator-developer-blog/deploying-with-azure-static-apps-is-even-faster-with-the-new/ba-p/3872796) – `Jul 17`` 
 
 ### Community: Videos
 
-- Build & Deploy SWA (Angular, Azure Functions, ALM & DevOps) - July
-- Azure Static Web Apps with Blazor and .NET (NDC Oslo) - July 
-Burke Learns Blazor – June
-- Connect your SWA to Azure Databases using REST or GraphQL - June
+- [Build & Deploy SWA (Angular, Azure Functions, ALM & DevOps)](https://www.youtube.com/watch?v=TNA2T62Xqtc) - `July``
+- [Azure Static Web Apps with Blazor and .NET (NDC Oslo)](https://www.youtube.com/watch?v=r3IKpPe36nY) - `July`
+- [Burke Learns Blazor](https://www.youtube.com/watch?v=JdlYnylzFqM) – `June``
+- [Connect your SWA to Azure Databases using REST or GraphQL](https://www.youtube.com/watch?v=gCrBSSOezSQ) - `June``
 
 ### Community: Events
 
